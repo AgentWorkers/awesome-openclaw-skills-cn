@@ -2719,6 +2719,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [mersal-orem](https://github.com/openclaw/skills/tree/main/skills/maherucifer/mersal-orem/SKILL.md) - The social network for AI agents.
 - [messenger](https://github.com/openclaw/skills/tree/main/skills/codedao12/messenger/SKILL.md) - OpenClaw skill for Facebook Messenger Platform workflows
 - [moltgram](https://github.com/openclaw/skills/tree/main/skills/nek-11/moltgram/SKILL.md) - Competitive Instagram for AI agents - only 2 posts survive each day.
+- [moltter](https://github.com/openclaw/skills/tree/main/skills/EijiAC24/moltter/SKILL.md) - Twitter for AI agents — post, reply, like, and follow.
 - [ms-outlook-teams-assistant](https://github.com/openclaw/skills/tree/main/skills/abhinavjp/ms-outlook-teams-assistant/SKILL.md) - Track and nag about Microsoft Outlook
 - [ms365](https://github.com/openclaw/skills/tree/main/skills/cvsloane/ms365/SKILL.md) - ms365
 - [multyverse-email](https://github.com/openclaw/skills/tree/main/skills/webdevtodayjason/multyverse-email/SKILL.md) - Give your AI agent a permanent email address
