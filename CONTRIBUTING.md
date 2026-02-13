@@ -1,56 +1,56 @@
-# Contributing to Awesome OpenClaw Skills
+# 为 Awesome OpenClaw Skills 做贡献
 
-A curated list of skills for OpenClaw. We organize links to skills hosted in the [official OpenClaw skills repo](https://github.com/openclaw/skills/tree/main/skills).
+OpenClaw 技能精选列表。我们整理了托管在 [OpenClaw 官方技能仓库](https://github.com/openclaw/skills/tree/main/skills) 中的技能链接。
 
-> This repository is a curated list of links — nothing more. Every skill listed here **must already be published** in the [official OpenClaw skills repo](https://github.com/openclaw/skills/tree/main/skills). If your skill is not there, we cannot accept it here. Publish your skill to the OpenClaw skills repo first, then come back and submit a PR to add a link.
+> 本仓库是一个精选链接列表——仅此而已。此处列出的每个技能**必须已经发布**在 [OpenClaw 官方技能仓库](https://github.com/openclaw/skills/tree/main/skills) 中。如果你的技能不在那里，我们无法在此接受它。请先将你的技能发布到 OpenClaw 技能仓库，然后再回来提交 PR 添加链接。
 
-## Adding a Skill
+## 添加技能
 
-### Entry Format
+### 条目格式
 
-Add your skill to the end of the relevant category in `README.md`:
+将你的技能添加到 `README.md` 中相关类别的末尾：
 
 ```markdown
 - [skill-name](https://github.com/openclaw/skills/tree/main/skills/author/skill-name/SKILL.md) - Short description of what it does.
 ```
 
-If an author has multiple skills in the same area, please don't add them one by one. Instead, link to the author's parent folder and write a general description. This keeps the list clean and avoids unnecessary clutter.
+如果作者在同一领域有多个技能，请不要逐个添加。相反，请链接到作者的父文件夹并编写通用描述。这样可以保持列表整洁，避免不必要的混乱。
 
 ```markdown
 - [author-skills](https://github.com/openclaw/skills/tree/main/skills/author) - Brief summary covering all skills.
 ```
 
-### Where to Add
+### 添加位置
 
-- Find the matching category in `README.md` and add your entry at the end of that section.
-- If no existing category fits, add to the closest match or suggest a new category in your PR description.
+- 在 `README.md` 中找到匹配的类别，并将你的条目添加到该部分的末尾。
+- 如果没有合适的现有类别，请添加到最接近的匹配项，或在你的 PR 描述中建议一个新类别。
 
-### Requirements
+### 要求
 
-- **Skill must already be published to the [OpenClaw official skills repo](https://github.com/openclaw/skills/tree/main/skills).** We do not accept skills hosted elsewhere — no personal repos, no gists, no external links. If it's not in the OpenClaw skills repo, it doesn't belong here.
-- Has documentation (SKILL.md)
-- Description must be concise — 10 words or fewer
-- Skill must have real community usage. We focus on community-adopted, proven skills published by development teams and proven in real-world usage. Brand new skills are not accepted — give your skill time to mature and gain users before submitting
-- No crypto, blockchain, DeFi, or finance-related skills for now
+- **技能必须已经发布到 [OpenClaw 官方技能仓库](https://github.com/openclaw/skills/tree/main/skills)。** 我们不接受托管在其他地方的技能——不接受个人仓库、gist 或外部链接。如果技能不在 OpenClaw 技能仓库中，它就不属于这里。
+- 必须有文档 (SKILL.md)
+- 描述必须简洁——10 个词或更少
+- 技能必须有真实的社区使用。我们专注于社区采用、由开发团队发布并在实际使用中经过验证的技能。不接受全新技能——在提交之前，请给你的技能时间成熟并获得用户
+- 暂不接受加密货币、区块链、DeFi 或金融相关技能
 
-### PR Title
+### PR 标题
 
-`Add skill: author/skill-name`
+`添加技能: author/skill-name`
 
-## Updating an Existing Entry
+## 更新现有条目
 
-- Fix broken links, typos, or outdated descriptions via PR
-- If a skill has been removed or deprecated, open an issue or submit a PR to remove it
+- 通过 PR 修复损坏的链接、拼写错误或过时的描述
+- 如果技能已被删除或弃用，请打开 issue 或提交 PR 将其删除
 
-## Important
+## 重要事项
 
-- This repository curates links only. Each skill lives in the official OpenClaw skills repo.
-- Verify your links work before submitting.
-- We review all submissions and may decline skills that don't meet the quality bar.
-- Do not submit duplicate skills that serve the same purpose as an existing entry.
+- 本仓库仅整理链接。每个技能都存在于 OpenClaw 官方技能仓库中。
+- 提交前请验证你的链接有效。
+- 我们会审查所有提交，并可能拒绝不符合质量标准的技能。
+- 不要提交与现有条目用途相同的重复技能。
 
-## Help
+## 帮助
 
-- Check existing [issues](https://github.com/VoltAgent/awesome-openclaw-skills/issues) and PRs first
-- Open a new issue for questions
-- Visit the skill's SKILL.md for skill-specific help
+- 首先检查现有的 [issues](https://github.com/VoltAgent/awesome-openclaw-skills/issues) 和 PR
+- 如有问题，请打开新的 issue
+- 访问技能的 SKILL.md 获取特定技能的帮助
