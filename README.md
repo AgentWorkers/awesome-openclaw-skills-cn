@@ -537,6 +537,7 @@ npx clawhub@latest install <skill-slug>
 - [stepfun-openrouter](https://github.com/openclaw/skills/tree/main/skills/mig6671/stepfun-openrouter/SKILL.md) - 集成 StepFun AI 模型（Step-3.5 Flash、Step-3）
 - [stepfun-openrouter-v2](https://github.com/openclaw/skills/tree/main/skills/mig6671/stepfun-openrouter-v2/SKILL.md) - 集成 StepFun AI 模型
 - [strykr-qa-bot](https://github.com/openclaw/skills/tree/main/skills/nextfrontierbuilds/strykr-qa-bot/SKILL.md) - 用于测试 Strykr 的 QA 自动化技能
+- [static-app](https://github.com/openclaw/skills/blob/main/skills/akellacom/static-app/SKILL.md) – 将静态网站部署到 static.app 托管。
 - [tech-stack-evaluator](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/tech-stack-evaluator/SKILL.md) - 技术栈评估和比较
 - [technews](https://github.com/openclaw/skills/tree/main/skills/kesslerio/technews/SKILL.md) - 从 TechMeme 获取热门故事，总结链接文章
 - [telegram-reaction-prober](https://github.com/openclaw/skills/tree/main/skills/deadlysilent/telegram-reaction-prober/SKILL.md) - 探测哪些表情符号反应
@@ -742,6 +743,7 @@ npx clawhub@latest install <skill-slug>
 - [proactive-research](https://github.com/openclaw/skills/tree/main/skills/robbyczgw-cla/proactive-research/SKILL.md) - 监控感兴趣的主题并主动提醒
 - [proxmox](https://github.com/openclaw/skills/tree/main/skills/weird-aftertaste/proxmox/SKILL.md) - 通过 REST API 管理 Proxmox VE 集群。
 - [proxmox-full](https://github.com/openclaw/skills/tree/main/skills/msarheed/proxmox-full/SKILL.md) - 完整的 Proxmox VE 管理
+- [prometheus](https://github.com/openclaw/skills/blob/main/skills/akellacom/prometheus/SKILL.md) - 查询 Prometheus 监控数据以检查服务器指标、资源使用情况和系统健康状况。
 - [public](https://github.com/openclaw/skills/tree/main/skills/luccast/public/SKILL.md) - OpenClaw 代理的实时伴侣监控器
 - [qlik-cloud](https://github.com/openclaw/skills/tree/main/skills/undsoul/qlik-cloud/SKILL.md) - 完整的 Qlik Cloud 分析平台集成，具有 37 个工具。
 - [qlik-cloud-skill](https://github.com/openclaw/skills/tree/main/skills/undsoul/qlik-cloud-skill/SKILL.md) - 完整的 Qlik Cloud 分析平台集成，具有 37
@@ -2205,6 +2207,7 @@ npx clawhub@latest install <skill-slug>
 - [thingsboard-skill](https://github.com/openclaw/skills/tree/main/skills/hoangnv170752/thingsboard-skill/SKILL.md) - 管理 ThingsBoard 设备、仪表板、遥测
 - [umea-data](https://github.com/openclaw/skills/tree/main/skills/simskii/umea-data/SKILL.md) - 从 Umeå kommun 查询有关位置、设施的开放数据
 - [yahoo-data-fetcher](https://github.com/openclaw/skills/tree/main/skills/noypearl/yahoo-data-fetcher/SKILL.md) - 从 Yahoo Finance 获取实时股票报价。
+- [douban-sync-skill](https://github.com/openclaw/skills/tree/main/skills/cosformula/douban-sync-skill/SKILL.md) - 导出并同步豆瓣书籍/电影/音乐/游戏收藏。
 
 </details>
 
