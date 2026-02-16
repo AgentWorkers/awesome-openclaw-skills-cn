@@ -6,7 +6,7 @@
 
 | 文件 | 上游 Commit | 同步时间 |
 |------|-------------|----------|
-| README.md | `b0f21bbe051ed3463b3edda59b953326c1c64ab0` | 2026-02-14 |
+| README.md | `e4f76b7cc09399eaf52a8a0acfd0bc6271efd1f2` | 2026-02-16 |
 | CONTRIBUTING.md | `ce7b4e400ef794bddce66eb64719dd7550b23101` | 2026-02-14 |
 
 ## 上游仓库信息
@@ -15,6 +15,16 @@
 - **翻译基准版本**: `95fb437` (翻译前的原始英文版本)
 
 ## 同步历史
+
+### 2026-02-16
+- 同步到 `e4f76b7cc09399eaf52a8a0acfd0bc6271efd1f2`
+- 新增技能:
+  - `token-panel-ultimate` - 实时追踪 AI 使用情况
+  - `agent-memory-ultimate` - 生产级内存系统
+  - `whatsapp-ultimate` - 完整 WhatsApp 集成
+  - `appraisal-ai` - 房地产评估报告
+  - `agent-boundaries-ultimate` - 安全与伦理框架
+  - `shell-security-ultimate` - Shell 命令安全分类
 
 ### 2026-02-14
 - 同步到 `b0f21bbe051ed3463b3edda59b953326c1c64ab0`
