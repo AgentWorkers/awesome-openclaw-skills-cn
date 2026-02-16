@@ -1424,6 +1424,7 @@ npx clawhub@latest install <skill-slug>
 - [stranger-danger](https://github.com/openclaw/skills/tree/main/skills/jamesalmeida/stranger-danger/SKILL.md) - 给您的 AI 代理一个安全词。
 - [swiggy](https://github.com/openclaw/skills/tree/main/skills/regalstreak/swiggy/SKILL.md) - 通过 Swiggy 的 MCP 在印度订购食物、杂货和预订餐厅
 - [taskr](https://github.com/openclaw/skills/tree/main/skills/echo-of-machines/taskr/SKILL.md) - OpenClaw 的远程任务内存和跟踪。
+- [token-panel-ultimate](https://github.com/openclaw/skills/tree/main/skills/globalcaos/token-panel-ultimate/SKILL.md) - 实时追踪 Claude Max、Gemini 和 Manus 的 AI 使用情况。滚动窗口、速率限制、积分余额、webchat 小部件。
 - [treelisty-openclaw-skill](https://github.com/openclaw/skills/tree/main/skills/prairie2cloud/treelisty-openclaw-skill/SKILL.md) - 分层项目分解
 - [triple-memory](https://github.com/openclaw/skills/tree/main/skills/ktpriyatham/triple-memory/SKILL.md) - LanceDB + Git-Notes + 基于文件的内存系统。
 - [ultrahuman-openclaw](https://github.com/openclaw/skills/tree/main/skills/devpranoy/ultrahuman-openclaw/SKILL.md) - 获取和总结 Ultrahuman Ring/CGM 指标
@@ -2328,6 +2329,7 @@ npx clawhub@latest install <skill-slug>
 <details>
 <summary><h3 style="display:inline">笔记与 PKM</h3></summary>
 
+- [agent-memory-ultimate](https://github.com/openclaw/skills/tree/main/skills/globalcaos/agent-memory-ultimate/SKILL.md) - 生产级内存系统 — 日志、睡眠整合、SQLite + FTS5、WhatsApp/ChatGPT/VCF 导入器。类人架构。
 - [agents-structured-memory](https://github.com/openclaw/skills/tree/main/skills/singhcoder/agents-structured-memory/SKILL.md) - 代理的聊天原生结构化内存
 - [alexandrie](https://github.com/openclaw/skills/tree/main/skills/eth3rnit3/alexandrie/SKILL.md) - 与 Alexandrie 笔记应用程序交互
 - [anki-connect](https://github.com/openclaw/skills/tree/main/skills/gyroninja/anki-connect/SKILL.md) - 通过 AnkiConnect REST API 与 Anki 抽认卡牌组交互。
@@ -2786,6 +2788,7 @@ npx clawhub@latest install <skill-slug>
 - [webchat-audio-notifications](https://ClawHub.com/brokemac79/webchat-audio-notifications) - 带有 5... 的 webchat 浏览器音频通知
 - [wechat](https://github.com/openclaw/skills/tree/main/skills/alphafactor/wechat/SKILL.md) - 从 SQLite 数据库读取微信本地数据。
 - [whatsapp-styler](https://github.com/openclaw/skills/tree/main/skills/rubenfb23/whatsapp-styler/SKILL.md) - 确保发送到 WhatsApp 的所有消息都遵循
+- [whatsapp-ultimate](https://github.com/openclaw/skills/tree/main/skills/globalcaos/whatsapp-ultimate/SKILL.md) - 完整的 WhatsApp 集成 — 消息、媒体、投票、贴纸、语音笔记、反应、FTS5 历史搜索、语音转录。原生 Baileys，无需 Docker。
 - [whatsapp-video-mockup](https://github.com/openclaw/skills/tree/main/skills/danpeg/whatsapp-video-mockup/SKILL.md) - whatsapp-video-mockup
 - [zalo](https://github.com/openclaw/skills/tree/main/skills/codedao12/zalo/SKILL.md) - 集成 Zalo (Zalo OA/ZNS) 的指导：流程、API 使用、webhooks
 - [zero-trust](https://github.com/openclaw/skills/tree/main/skills/doonot/zero-trust/SKILL.md) - 谨慎代理操作的安全优先行为指南。
@@ -3047,6 +3050,7 @@ npx clawhub@latest install <skill-slug>
 - [agent-intelligence-network-scan](https://github.com/openclaw/skills/tree/main/skills/lvcidpsyche/agent-intelligence-network-scan/SKILL.md) - 查询代理声誉
 - [agentsbank](https://github.com/openclaw/skills/tree/main/skills/cryruz/agentsbank/SKILL.md) - 是专为 AI 代理设计的专业金融平台。
 - [ai-pdf-builder](https://github.com/openclaw/skills/tree/main/skills/nextfrontierbuilds/ai-pdf-builder/SKILL.md) - 用于法律文档、演示文稿的 AI 驱动 PDF 生成器
+- [appraisal-ai](https://github.com/openclaw/skills/tree/main/skills/chadru/appraisal-ai/SKILL.md) - 起草带有更改跟踪的房地产评估报告。
 - [beautiful-mermaid](https://github.com/openclaw/skills/tree/main/skills/ntlx/beautiful-mermaid/SKILL.md) - 将美丽的 Mermaid 图表渲染为 SVG 或 ASCII 艺术。
 - [boggle](https://github.com/openclaw/skills/tree/main/skills/christianhaberl/boggle/SKILL.md) - 解决 Boggle 棋盘 — 在 4x4 上找到所有有效单词（德语 + 英语）
 - [bookkeeping-basics](https://github.com/openclaw/skills/tree/main/skills/jk-0001/bookkeeping-basics/SKILL.md) - 为个体创业者设置和维护基本簿记
@@ -3201,6 +3205,8 @@ npx clawhub@latest install <skill-slug>
 - [senior-secops](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/senior-secops/SKILL.md) - 应用程序安全的全面 SecOps 技能
 - [shadow-strike-security](https://github.com/openclaw/skills/tree/main/skills/malvex007/shadow-strike-security/SKILL.md) - 精英渗透测试平台，具有 600+
 - [skill-guard](https://github.com/openclaw/skills/tree/main/skills/jamesouttake/skill-guard/SKILL.md) - 扫描 ClawHub 技能的安全漏洞
+- [agent-boundaries-ultimate](https://github.com/openclaw/skills/tree/main/skills/globalcaos/agent-boundaries-ultimate/SKILL.md) - 安全与伦理框架 — 超越阿西莫夫三定律。授权、隐私、OPSEC、多用户环境的代理礼仪。
+- [shell-security-ultimate](https://github.com/openclaw/skills/tree/main/skills/globalcaos/shell-security-ultimate/SKILL.md) - 按风险级别分类 shell 命令（SAFE→CRITICAL）。彩色输出、审计日志、执行脚本。
 - [skill-security-audit](https://github.com/openclaw/skills/tree/main/skills/kylehuan/skill-security-audit/SKILL.md) - 进行全面的安全审计
 - [soul-shepherd](https://github.com/openclaw/skills/tree/main/skills/snail3d/soul-shepherd/SKILL.md) - 具有诚实 AI 人类交互的精神问责技能
 - [test-audit-badge](https://github.com/openclaw/skills/tree/main/skills/tezatezaz/test-audit-badge/SKILL.md) - 测试技能以演示审计徽章；不要使用
