@@ -6,7 +6,7 @@
 
 | 文件 | 上游 Commit | 同步时间 |
 |------|-------------|----------|
-| README.md | `e4f76b7cc09399eaf52a8a0acfd0bc6271efd1f2` | 2026-02-16 |
+| README.md | `7483209cfb71f5e7d8259b8b4c8b9864058b779d` | 2026-02-17 |
 | CONTRIBUTING.md | `ce7b4e400ef794bddce66eb64719dd7550b23101` | 2026-02-14 |
 
 ## 上游仓库信息
@@ -15,6 +15,12 @@
 - **翻译基准版本**: `95fb437` (翻译前的原始英文版本)
 
 ## 同步历史
+
+### 2026-02-17
+- 同步到 `7483209cfb71f5e7d8259b8b4c8b9864058b779d`
+- 新增技能:
+  - `capmetro-skill` - 奥斯汀 CapMetro 公交实时查询
+  - `openclaw-backup-safe` - 加固的 OpenClaw 备份和安全恢复回滚
 
 ### 2026-02-16
 - 同步到 `e4f76b7cc09399eaf52a8a0acfd0bc6271efd1f2`
