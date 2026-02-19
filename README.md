@@ -1122,7 +1122,6 @@ npx clawhub@latest install <skill-slug>
 - [deep-research](https://github.com/openclaw/skills/tree/main/skills/seyhunak/deep-research/SKILL.md) - 深度研究代理专长于复杂、多步骤的研究
 - [deepresearch-conversation](https://github.com/openclaw/skills/tree/main/skills/ide-rea/deepresearch-conversation/SKILL.md) - 提供深度研究对话
 - [deepresearchwork](https://github.com/openclaw/skills/tree/main/skills/jiacode/deepresearchwork/SKILL.md) - 结合网络搜索的综合研究框架
-- [deeps](https://github.com/openclaw/skills/tree/main/skills/ttboy/deeps/SKILL.md) - 深度研究代理专长于复杂、多步骤的研究任务
 - [denario-skill](https://github.com/openclaw/skills/tree/main/skills/jmanhype/denario-skill/SKILL.md) - 包装框架以自动化科学研究过程。
 - [dhmz-weather](https://github.com/openclaw/skills/tree/main/skills/faleksic/dhmz-weather/SKILL.md) - 从 DHMZ 获取克罗地亚天气数据、预报和警报
 - [dns-lookup](https://github.com/openclaw/skills/tree/main/skills/xejrax/dns-lookup/SKILL.md) - 使用 bind-utils 的 `dig` 将主机名解析为 IP 地址。
@@ -1149,7 +1148,6 @@ npx clawhub@latest install <skill-slug>
 - [google-news-api](https://github.com/openclaw/skills/tree/main/skills/phheng/google-news-api/SKILL.md) - 自动从 Google News 抓取结构化新闻数据。
 - [google-search](https://github.com/openclaw/skills/tree/main/skills/mxfeinberg/google-search/SKILL.md) - 使用 Google 自定义搜索引擎 (PSE) 搜索网络。
 - [google-teneo](https://github.com/openclaw/skills/tree/main/skills/firestream792/google-teneo/SKILL.md) - 代理使您能够搜索 Google 并检索
-- [gorger](https://github.com/openclaw/skills/tree/main/skills/ttboy/gorger/SKILL.md) - 深度研究代理专长于复杂、多步骤的研究任务
 - [grok-search](https://github.com/openclaw/skills/tree/main/skills/notabhay/grok-search/SKILL.md) - 搜索网络或 X/Twitter
 - [growth-marketer](https://github.com/openclaw/skills/tree/main/skills/metehan777/growth-marketer/SKILL.md) - ：营销、SEO、转化优化、弹出式构建器
 - [hackernews](https://github.com/openclaw/skills/tree/main/skills/gchapim/hackernews/SKILL.md) - 浏览和搜索 Hacker News。
@@ -2077,7 +2075,6 @@ npx clawhub@latest install <skill-slug>
 - [opencode-controller](https://github.com/openclaw/skills/tree/main/skills/karatla/opencode-controller/SKILL.md) - 通过斜杠命令控制和操作 Opencode。
 - [openrouter-transcribe](https://github.com/openclaw/skills/tree/main/skills/obviyus/openrouter-transcribe/SKILL.md) - 通过 OpenRouter 转录音频文件
 - [oracle](https://github.com/openclaw/skills/tree/main/skills/steipete/oracle/SKILL.md) - 使用 @steipete/oracle CLI 捆绑提示和正确的文件并获取
-- [ouyang](https://github.com/openclaw/skills/tree/main/skills/ttboy/ouyang/SKILL.md) - 使用 ChromaDB 和 sentence-transformers 的代理内存本地 RAG 系统。
 - [pandas-construction-analysis](https://github.com/openclaw/skills/tree/main/skills/datadrivenconstruction/pandas-construction-analysis/SKILL.md) - 全面的 Pandas
 - [patent-scanner](https://github.com/openclaw/skills/tree/main/skills/leegitw/patent-scanner/SKILL.md) - 描述您的概念并发现使其独特之处
 - [peft](https://github.com/openclaw/skills/tree/main/skills/desperado991128/peft/SKILL.md) - 使用 LoRA、QLoRA 和 25+ 方法对 LLM 进行参数高效微调。
@@ -2156,6 +2153,7 @@ npx clawhub@latest install <skill-slug>
 - [win-mouse-native](https://github.com/openclaw/skills/tree/main/skills/lurklight/win-mouse-native/SKILL.md) - 原生 Windows 鼠标控制（移动、点击、拖动）
 - [xai](https://github.com/openclaw/skills/tree/main/skills/mvanhorn/xai/SKILL.md) - 通过 xAI API 与 Grok 模型聊天。
 - [xuezh](https://github.com/openclaw/skills/tree/main/skills/local/xuezh/SKILL.md) - 使用 xuezh 引擎教授普通话，用于复习、口语和审计。
+- [openclaw-validate](https://github.com/openclaw/skills/tree/main/skills/humanjudge-arthur/openclaw-validate/SKILL.md) - AI 代理响应的实时人工评估基准
 
 </details>
 
