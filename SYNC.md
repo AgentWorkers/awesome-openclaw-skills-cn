@@ -80,7 +80,7 @@
 
 ## 同步方法
 
-### 方法一：提供最新 commit id（推荐）
+### 提供最新 commit id（推荐）
 
 1. 获取上游最新 commit id：
    ```bash
@@ -93,28 +93,7 @@
    - 识别所有新增、修改、删除的内容
    - 将差异翻译并应用到中文版本
 
-### 方法二：查看多个 commit 的变化
-
 如果有多个 commit 需要同步，只需提供**最新的 commit id**即可。AI 会对比翻译前的原始版本与最新版本，自动捕获所有累积的变化。
-
-### 方法三：手动同步
-
-1. 获取上游原始版本（翻译前）：
-   ```bash
-   git show 95fb437:README.md > /tmp/original.md
-   ```
-
-2. 获取上游最新版本：
-   ```bash
-   git show <latest-commit>:README.md > /tmp/latest.md
-   ```
-
-3. 对比差异：
-   ```bash
-   diff /tmp/original.md /tmp/latest.md
-   ```
-
-4. 将差异内容翻译并应用到中文版本
 
 ## 注意事项
 
