@@ -4,17 +4,36 @@
 
 ## 当前状态
 
-| 文件 | 上游 Commit | 同步时间 |
-|------|-------------|----------|
-| README.md | `f200dd7f6cf500740ebc420da298b97c58700f78` | 2026-02-19 |
+| 文件            | 上游 Commit                                | 同步时间   |
+| --------------- | ------------------------------------------ | ---------- |
+| README.md       | `6ee3d5efa6d92f5c2b41bee86a3663a5ed690288` | 2026-02-20 |
 | CONTRIBUTING.md | `ce7b4e400ef794bddce66eb64719dd7550b23101` | 2026-02-14 |
 
 ## 上游仓库信息
 
 - **仓库地址**: https://github.com/VoltAgent/awesome-openclaw-skills
-- **翻译基准版本**: `95fb437` (翻译前的原始英文版本)
 
 ## 同步历史
+
+### 2026-02-20
+- 同步到 `6ee3d5efa6d92f5c2b41bee86a3663a5ed690288`
+- 变更说明:
+  - 更新安全通知 (Security Notice) 部分，添加更详细的安全警告和推荐工具
+  - 新增技能:
+    - `eachlabs-face-swap` - 使用 EachLabs AI 进行图像换脸
+    - `eachlabs-fashion-ai` - 生成时尚图像、虚拟试穿、秀场视频
+    - `eachlabs-image-edit` - 使用 200+ AI 模型编辑、转换、放大图像
+    - `eachlabs-image-generation` - 使用 Flux、GPT Image、Gemini、Imagen 生成图像
+    - `eachlabs-video-edit` - 编辑视频，包括唇形同步、翻译、字幕
+    - `eachlabs-video-generation` - 使用 AI 模型从文本/图像生成视频
+    - `eachlabs-music` - 使用 Mureka AI 生成歌曲、配乐、歌词、播客
+    - `eachlabs-voice-audio` - 使用 ElevenLabs、Whisper、RVC 进行语音合成、语音识别、声音转换
+    - `eachlabs-product-visuals` - 生成电商产品摄影和视频
+    - `desearch` - 通过 Desearch 进行 Web、X、AI 搜索和页面抓取
+    - `goodreads` - 搜索书籍、获取评论并管理阅读列表
+    - `redline` - 针对 Claude.ai 和 OpenAI 的实时速率限制感知
+    - `criticaster` - 查找具有综合评论的产品，标准化为单一评分
+  - 删除技能: `agentledger`, `skillguard`
 
 ### 2026-02-19
 - 同步到 `f200dd7f6cf500740ebc420da298b97c58700f78`
