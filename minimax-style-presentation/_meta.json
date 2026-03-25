@@ -1,0 +1,9 @@
+{
+  "id": "183",
+  "name": "minimax-style-presentation",
+  "version": "1.0.0",
+  "author": "Matrix Agent",
+  "description": "MiniMax科技简约风格演示文稿生成器，支持PPT和HTML格式输出",
+  "tags": ["presentation", "ppt", "slides", "html", "minimax", "design"],
+  "license": "MIT"
+}
