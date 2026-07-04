@@ -95,6 +95,11 @@
 
 ## 同步方法
 
+> **结构变更说明（2026-07-04 重构后）**：上游已从"全量 README"改为"精简展示版 README + categories/ 分类目录"模式。
+> 现在同步需要同时关注两部分：
+> - **README.md**：每个分类仅展示约 20-30 个技能（结构性内容 + 精简列表）
+> - **categories/\*.md**：各分类的完整技能列表（30 个文件）
+
 ### 提供最新 commit id（推荐）
 
 1. 获取上游最新 commit id：
@@ -103,22 +108,48 @@
    git log upstream/main --oneline -1
    ```
 
-2. 将 commit id 提供给 AI 助手，AI 会：
-   - 对比翻译前的原始版本与最新版本
-   - 识别所有新增、修改、删除的内容
+2. 将最新 commit id 提供给 AI 助手，AI 会：
+   - 对比"当前状态"表格中记录的上次同步 commit 与最新 commit
+   - 分别对比 `README.md`、`CONTRIBUTING.md`、`categories/` 目录的差异
+   - 识别所有新增、修改、删除的技能和结构性变化
    - 将差异翻译并应用到中文版本
 
-如果有多个 commit 需要同步，只需提供**最新的 commit id**即可。AI 会对比翻译前的原始版本与最新版本，自动捕获所有累积的变化。
+如果有多个 commit 需要同步，只需提供**最新的 commit id**即可。AI 会对比上次同步的版本与最新版本，自动捕获所有累积的变化。
+
+### 对比差异的具体命令
+
+```bash
+# 假设上次同步的 commit 是 OLD_COMMIT，最新是 upstream/main
+# 对比 README.md
+git diff OLD_COMMIT upstream/main -- README.md
+
+# 对比 CONTRIBUTING.md
+git diff OLD_COMMIT upstream/main -- CONTRIBUTING.md
+
+# 对比某个分类文件
+git diff OLD_COMMIT upstream/main -- categories/git-and-github.md
+
+# 查看哪些分类文件有变化
+git diff --name-only OLD_COMMIT upstream/main -- categories/
+```
+
+### 翻译复用技巧
+
+README.md 的精简列表中的技能描述，可以从已翻译的 `categories/*.md` 中复用（按 URL 匹配）。
+仓库根目录可放置一个翻译脚本（如 `translate_readme.py`）自动完成此复用。
 
 ## 注意事项
 
 1. **不要直接 merge 上游**：由于译文与原文差异大，直接 merge 会产生大量冲突
 
-2. **保持翻译基准版本不变**：`95fb437` 是翻译前的原始版本，用于对比差异的基准，不要修改
+2. **当前同步基准**：`34a20c3862fb17800da122f98f559be33b374114`（2026-07-04 重构后的版本）。
+   下次同步时，以此 commit 为起点对比上游变化。
 
 3. **更新本文件**：每次同步后，请更新"当前状态"表格中的 commit id 和同步时间
 
 4. **记录同步历史**：在"同步历史"部分记录每次同步的具体变化
+
+5. **保留仓库独有内容**：`minimax-style-presentation/`、`AGENTS.md`、`CLAUDE.md` 等是本仓库独有的，同步时不要覆盖
 
 ## 翻译规范
 
@@ -126,3 +157,5 @@
 - 描述翻译为中文
 - 保持 Markdown 格式不变
 - 链接地址保持原样
+- 专有名词、产品名、技术术语保留英文（如 Docker、GitHub、MCP、CLI、API 等）
+- categories/ 文件的固定格式：标题中文化、`[← 返回主列表](../README.md#目录)`、`**N 个技能**`
