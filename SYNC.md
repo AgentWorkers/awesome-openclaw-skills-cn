@@ -6,14 +6,29 @@
 
 | 文件            | 上游 Commit                                | 同步时间   |
 | --------------- | ------------------------------------------ | ---------- |
-| README.md       | `6ee3d5efa6d92f5c2b41bee86a3663a5ed690288` | 2026-02-20 |
-| CONTRIBUTING.md | `ce7b4e400ef794bddce66eb64719dd7550b23101` | 2026-02-14 |
+| README.md       | `34a20c3862fb17800da122f98f559be33b374114` | 2026-07-04 |
+| CONTRIBUTING.md | `34a20c3862fb17800da122f98f559be33b374114` | 2026-07-04 |
+| categories/     | `34a20c3862fb17800da122f98f559be33b374114` | 2026-07-04 |
 
 ## 上游仓库信息
 
 - **仓库地址**: https://github.com/VoltAgent/awesome-openclaw-skills
 
 ## 同步历史
+
+### 2026-07-04（重大重构）
+- 同步到 `34a20c3862fb17800da122f98f559be33b374114`
+- 变更说明:
+  - **结构性重构**：上游 README 从"全量技能列表"改为"精简展示版 + 分类目录"模式
+  - README 从 3351 行精简为 1257 行，每个分类只展示约 20-30 个技能，其余通过链接指向 categories/ 目录
+  - **新增 categories/ 目录**：30 个分类文件，存放各分类完整技能列表，均已翻译
+  - **新增 "OpenClaw 生态系统工具" 章节**：含连接外部服务（Composio）、托管部署（MyClaw）、搜索数据（SerpApi）、安全审计（trentclaw）、模型提供商等子章节
+  - **Installation 章节调整**：新增 `openclaw` CLI 安装方式，标题层级下调一级
+  - **CONTRIBUTING.md 完全重写**：强调所有技能必须先发布到 ClawHub 注册表，新增安全策略和 PR 规范
+  - **目录（Table of Contents）更新**：分类数量大幅增长（如编码代理从 133 增至 1184）
+  - 大量技能增删（累积数百个 commit），新增技能包括但不限于：
+    - `sequenzy-email-marketing`、`google-service-accounts`、`before-you-build`、`traffic-standards-kb`、`proactive-soul`、`runapi-mcp`、`brewpage-publish`、`parley`、`accli-plus`、`trentclaw`、`kesha-voice-kit`、`agentbase`、`postiz`、`mobilerun`、`adspower-browser`、`duoplus-agent`、`skill-provenance`、`chords-fetcher`、`yumfu`、`ai-video-remix`、`morrow-agent-memory`、`ima-knowledge-ai`、`agent-security-harness`、`domain-checker`、`boss-ai-agent`、`video-editor-ai`、`solid-agent-storage`、`lobstermail-agent-email`、`menews`、`honcho-setup`、`hf-papers`、`tutti`、`hk-bus-eta`、`web-search-pro`、`castreader`、`keepmyclaw`、`simplified-social-media`、`1claw`、`bluente-translate`、`creaa-ai`、`aminer-open-academic`、`arxiv-source`、`grafana-lens`、`bug-audit` 等
+  - 删除了加密货币相关技能
 
 ### 2026-02-20
 - 同步到 `6ee3d5efa6d92f5c2b41bee86a3663a5ed690288`

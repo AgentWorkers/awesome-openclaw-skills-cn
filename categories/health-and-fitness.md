@@ -1,0 +1,88 @@
+# 健康与健身
+
+[← 返回主列表](../README.md#目录)
+
+**84 个技能**
+
+- [31third-safe-rebalancer-simple](https://clawskills.sh/skills/phips0812-31third-safe-rebalancer-simple) - 使用链上 31Third 策略的一步式 Safe 再平衡器。
+- [anthrovision-telegram-body-scan](https://clawskills.sh/skills/dr2101-anthrovision-telegram-body-scan) - 使用 AnthroVision 桥接工具在 Telegram 中运行端到端身体扫描测量流程。
+- [aperture](https://clawskills.sh/skills/roasbeef-aperture) - 安装并运行 Aperture，来自 Lightning Labs 的 L402 Lightning 反向代理。
+- [arc-skill-sandbox](https://clawskills.sh/skills/trypto1019-arc-skill-sandbox) - 在安装前于隔离环境中测试不受信任的技能。
+- [auto-improve](https://clawskills.sh/skills/mcben90-auto-improve) - 通过错误学习和模式识别实现自动自我改进。
+- [autonomous-agent](https://clawskills.sh/skills/josephrp-autonomous-agent) - 面向代理的 CornerStone MCP x402 技能。
+- [bountyhub-agent](https://clawskills.sh/skills/nativ3ai-bountyhub-agent) - 作为代理使用 H1DR4 BountyHub：创建任务、提交工作、争议、投票和认领托管支付。
+- [bring-recipes](https://clawskills.sh/skills/darkdevelopers-bring-recipes) - 当用户想要浏览食谱灵感时使用。
+- [calorie-counter](https://clawskills.sh/skills/cnqso-calorie-counter) - 跟踪每日卡路里和蛋白质摄入、设置目标并记录。
+- [capa-officer](https://clawskills.sh/skills/alirezarezvani-capa-officer) - 医疗器械质量管理体系 (QMS) 的 CAPA 系统管理。
+- [clawdhub-contributor](https://clawskills.sh/skills/starbuck100-clawdhub-contributor) - 为 ClawdHub 生态系统做贡献。
+- [cookidoo](https://clawskills.sh/skills/thekie-cookidoo) - 访问 Cookidoo（美善品）食谱、购物清单和膳食计划。
+- [critpt-solver](https://clawskills.sh/skills/wanng-ide-critpt-solver) - 验证并执行 CritPt 基准问题的 Python 解决方案。
+- [crunch-coordinate](https://clawskills.sh/skills/philippwassibauer-crunch-coordinate) - 管理 Crunch 协调者、竞赛（crunches）、奖励、检查点、质押或算力账户时使用。
+- [crypto-hackathon](https://clawskills.sh/skills/swairshah-crypto-hackathon) - 参加 USDC 黑客松、提交项目或投票时使用。3 个赛道：智能合约、技能。
+- [ct-health-guardian](https://clawskills.sh/skills/ctsolutionsdev-ct-health-guardian) - 面向 AI 代理的主动健康监控。
+- [curriculum-generator](https://clawskills.sh/skills/tarasinghrajput-curriculum-generator) - 智能教育课程生成系统，具有严格的步骤执行和人工升级策略。
+- [customer-onboarding-2](https://clawskills.sh/skills/jk-0001-customer-onboarding-2) - 设计并执行推动激活和留存的客户入门。
+- [detox-counter](https://clawskills.sh/skills/jhillin8-detox-counter) - 使用可自定义的计数器跟踪任何排毒，附带症状记录。
+- [diet-tracker](https://clawskills.sh/skills/yonghaozhao722-diet-tracker) - 跟踪每日饮食并计算营养信息。
+- [efka-api-integration](https://clawskills.sh/skills/satoshistackalotto-efka-api-integration) - 希腊社会保险 (EFKA) 集成 — 员工记录、缴费计算、APD 申报。
+- [egvert-health-guardian](https://clawskills.sh/skills/ctsolutionsdev-egvert-health-guardian) - 面向 AI 的主动健康监控。
+- [endurance-coach](https://clawskills.sh/skills/shiv19-endurance-coach) - 创建个性化的铁人三项、马拉松和超长耐力。
+- [eth24](https://clawskills.sh/skills/patmilkgallon-eth24) - 你正在运行 ETH24，一个每日摘要工具，呈现配置主题的热门推文。
+- [fasting-tracker](https://clawskills.sh/skills/jhillin8-fasting-tracker) - 跟踪间歇性禁食窗口、长时间禁食。
+- [feast](https://clawskills.sh/skills/smadgerano-feast) - 全面的膳食计划系统，具有文化主题、正宗食谱。
+- [feed-diet](https://clawskills.sh/skills/tkuehnl-feed-diet) - 审计你跨 HN 和 RSS 数据源的信息饮食 — 带有类别细分、ASCII 图表的精美报告。
+- [fitbit](https://clawskills.sh/skills/mjrussell-fitbit) - 查询 Fitbit 健康数据，包括睡眠、心率、活动、血氧饱和度 (SpO2)。
+- [fitbit-analytics](https://clawskills.sh/skills/kesslerio-fitbit-analytics) - Fitbit 健康和健身数据集成。
+- [free-jobboard-api](https://clawskills.sh/skills/yuqi-or-yuki-free-jobboard-api) - 面向代理的招聘看板。
+- [garmer](https://clawskills.sh/skills/garrza-garmer) - 从 Garmin Connect 提取健康和健身数据，包括活动。
+- [garmin-cli](https://clawskills.sh/skills/voydz-garmin-cli) - 通过非交互式 CLI 访问 Garmin Connect 健康、健身和活动数据。
+- [garmin-health](https://clawskills.sh/skills/eversonl-garmin-health-analysis) - 自然地与你的 Garmin 数据对话 - "什么。
+- [gdpr-cookie-consent](https://clawskills.sh/skills/metehan777-gdpr-cookie-consent) - 面向 AI 代理的完整参考指南，以帮助。
+- [gevety](https://clawskills.sh/skills/moclippa-gevety) - 访问你的 Gevety 健康数据 - 生物标志物、健康寿命评分、生物学。
+- [hackathon](https://clawskills.sh/skills/swairshah-hackathon) - 参加 USDC 黑客松、提交项目或投票时使用。3 个赛道：智能合约、技能。
+- [hackathon-manager](https://clawskills.sh/skills/ntombisol-hackathon-manager) - 跟踪黑客松截止日期、管理提交清单并监控进度。
+- [hackathon-manager](https://clawskills.sh/skills/tonbistudio-hackathon-manager) - 跟踪黑客松截止日期、管理提交清单并监控进度。
+- [hacker-news-poster](https://clawskills.sh/skills/saikatkumardey-hacker-news-poster) - 在 Hacker News 上发布、评论和互动。
+- [health-guardian](https://clawskills.sh/skills/cgtreadw-health-guardian) - 面向 AI 代理的主动健康监控。
+- [health-summary](https://clawskills.sh/skills/yusaku-0426-health-summary) - 生成每日/每周/每月健康摘要，附带营养总计、目标对比和趋势。
+- [health-sync](https://clawskills.sh/skills/filipe-m-almeida-health-sync) - 分析跨 Oura、Withings、Hevy、Strava、WHOOP 和 Eight Sleep 的同步健康数据。
+- [heartbeat-checklist](https://clawskills.sh/skills/felipetruman-heartbeat-checklist) - 定期运行这些检查（每日 2-4 次）。
+- [hevy](https://clawskills.sh/skills/mjrussell-hevy) - 从 Hevy 查询训练数据，包括训练、例程、练习。
+- [hle-reasoning-wrapper](https://clawskills.sh/skills/wanng-ide-hle-reasoning-wrapper) - 将 HLE 基准问题包装在结构化的思维链 (CoT) 推理过程中。
+- [huckleberry](https://clawskills.sh/skills/jayhickey-huckleberry) - 通过 Huckleberry 跟踪婴儿睡眠、喂养、尿布和成长。
+- [humaboam-final](https://clawskills.sh/skills/yuqi-or-yuki-humaboam-final) - 面向代理的招聘看板。
+- [intervals-icu](https://clawskills.sh/skills/pseuss-intervals-icu-api) - 访问和管理训练数据的完整指南。
+- [jasper-configguard](https://clawskills.sh/skills/emberdesire-jasper-configguard) - OpenClaw 的安全配置更改，带有自动。
+- [maccabi-pharm-search](https://clawskills.sh/skills/alexpolonsky-maccabi-pharm-search) - 检查以色列 Maccabi 药房的药品库存。
+- [mealie-api](https://clawskills.sh/skills/angusthefuzz-mealie-api) - 与 Mealie 食谱管理器交互（食谱、购物清单、膳食计划）。
+- [mh-1password](https://clawskills.sh/skills/mohdalhashemi98-hue-mh-1password) - 设置并使用 1Password CLI (op)。
+- [muscle-gain](https://clawskills.sh/skills/jhillin8-muscle-gain) - 跟踪肌肉增长，附带重量渐进、蛋白质跟踪。
+- [nicholasrae-expense-tracker](https://clawskills.sh/skills/nicholasrae-nicholasrae-expense-tracker) - 只需说出你花了什么 — 你的 AI 会记录它、分类它，并根据你的预算跟踪它。
+- [norman-overdue-reminders](https://clawskills.sh/skills/stanlee000-norman-overdue-reminders) - 查找逾期发票并向客户发送付款提醒（付款提醒/催款通知）。
+- [norman-tax-report](https://clawskills.sh/skills/stanlee000-norman-tax-report) - 审查和管理德国税务报告，包括增值税 (Umsatzsteuer)、所得税预缴和税务局 (Finanzamt) 提交。
+- [openalexandria](https://clawskills.sh/skills/havneco-openalexandria) - 查询并向 OpenAlexandria 联邦知识协议提交工件（默认为参考节点）。
+- [opencal](https://clawskills.sh/skills/neikfu-opencal) - 在 OpenCal 应用中记录膳食、检查营养进度并管理卡路里目标 — 通过你的 AI 代理免提操作。
+- [openfunderse-participant](https://clawskills.sh/skills/wiimdy-openfunderse-participant) - 用于分配提案、验证和提交的参与者 MoltBot。
+- [openfunderse-strategy](https://clawskills.sh/skills/wiimdy-openfunderse-strategy) - 用于分配提案、验证和提交的参与者 MoltBot。
+- [oura-analytics](https://clawskills.sh/skills/kesslerio-oura-analytics) - Oura Ring 数据集成和分析。
+- [paramus-chemistry](https://clawskills.sh/skills/gressling-paramus-chemistry) - 数百种化学和科学计算工具。
+- [ramalama-cli](https://clawskills.sh/skills/ieaves-ramalama-cli) - 运行 AI 代理并与之交互。
+- [recipe-finder](https://clawskills.sh/skills/harshasic-recipe-finder) - 使用 TheMealDB 免费 API 按食材、菜系或饮食偏好查找食谱。
+- [redshift](https://clawskills.sh/skills/accolver-redshift) - 使用 Redshift CLI (https://redshiftapp.com) 管理应用程序密钥 — 去中心化、加密的密钥。
+- [revenue-tracker](https://clawskills.sh/skills/gpunter-revenue-tracker) - 跟踪自主 AI 代理的收入、支出和资金跑道。
+- [sample-skill](https://clawskills.sh/skills/swairshah-sample-skill) - 参加 USDC 黑客松、提交项目或投票时使用。3 个赛道：智能合约、技能。
+- [sauna-calm](https://clawskills.sh/skills/grx21-sauna-calm) - 通过呼吸练习和 Sauna.ai 提醒安抚沮丧的用户。
+- [security-checker](https://clawskills.sh/skills/johstracke-security-checker) - 发布到 ClawHub 之前 Python 技能的安全扫描器。
+- [soft-pillow](https://clawskills.sh/skills/kivs-soft-pillow) - 当用户询问其睡眠数据、梦境历史或想要查询 Soft Pillow 应用的睡眠条目时使用。
+- [suisec](https://clawskills.sh/skills/k66inthesky-suisec) - Sui 安全 - 通过 sui client call --dry-run 和 sui client ptb --dry-run 预模拟交易，比较结果。
+- [system-health-check](https://clawskills.sh/skills/satoshistackalotto-system-health-check) - 系统健康验证器 — 检查技能文件、路径、权限、二进制文件、备份新鲜度和加密。
+- [tribe-protocol](https://clawskills.sh/skills/cheenu1092-oss-tribe-protocol) - 每次非所有者交互的强制信任查找。
+- [triggercmd](https://clawskills.sh/skills/rvmey-triggercmd) - 通过 TRIGGERcmd REST API 列出和运行命令来远程控制 TRIGGERcmd 计算机。
+- [twitter-post](https://clawskills.sh/skills/sit-in-twitter-post) - 通过官方 API v2 (OAuth 1.0a) 向 Twitter/X 发布推文。
+- [ub2-api-health-checker](https://clawskills.sh/skills/underbench2-gif-ub2-api-health-checker) - 一个使 Claw 能够测试 API 端点、验证其响应、衡量性能并生成健康报告的技能。
+- [usdc](https://clawskills.sh/skills/swairshah-usdc) - 参加 USDC 黑客松、提交项目或投票时使用。3 个赛道：智能合约、技能。
+- [usdc-hackathon](https://clawskills.sh/skills/swairshah-usdc-hackathon) - 参加 USDC 黑客松、提交项目或投票时使用。3 个赛道：智能合约、技能。
+- [uv-priority](https://clawskills.sh/skills/marcoracer-uv-priority) - 在所有 Python 包管理和执行中优先使用 uv 而非 pip。
+- [vynn-backtester](https://clawskills.sh/skills/beee003-vynn-backtester) - 使用自然语言运行交易策略回测 — 由 Vynn 提供支持。
+- [xrpl-tx-builder](https://clawskills.sh/skills/harleyscodes-xrpl-tx-builder) - 构建并签名 XRP 账本交易。
+- [yumstock](https://clawskills.sh/skills/yumyumtum-yumstock) - 宏观限制的美国股票分析，结合技术指标、基本面和宏观环境，带有权重。

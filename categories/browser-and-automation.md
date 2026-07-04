@@ -1,0 +1,316 @@
+# 浏览器与自动化
+
+[← 返回主列表](../README.md#目录)
+
+**323 个技能**
+
+- [1p-shortlink](https://clawskills.sh/skills/tuanpmt-1p-shortlink) - 使用 1p.io 创建短链接并提交功能请求。
+- [2captcha](https://clawskills.sh/skills/adinvadim-2captcha) - 使用 2Captcha 服务解决验证码。
+- [a-share-real-time-data](https://clawskills.sh/skills/wangdinglu-a-share-real-time-data) - 通过 mootdx/TDX 协议获取中国 A 股市场数据（K 线、实时行情、逐笔成交）。
+- [abm-outbound](https://clawskills.sh/skills/dru-ca-abm-outbound) - 将 LinkedIn URL 转化的多渠道 ABM 自动化。
+- [accessibility-toolkit](https://clawskills.sh/skills/cgtreadw-accessibility-toolkit) - 为辅助 agent 降低摩擦的模式。
+- [activecampaign](https://clawskills.sh/skills/kesslerio-activecampaign) - 用于线索管理、交易等的 ActiveCampaign CRM 集成。
+- [adcp-advertising](https://clawskills.sh/skills/edyyy62-adcp-advertising) - 使用 AI 自动化广告投放活动。
+- [admet-prediction](https://clawskills.sh/skills/huifer-admet-prediction) - 对候选药物进行 ADMET（吸收、分布、代谢、排泄、毒性）预测。
+- [adspower-browser](https://clawskills.sh/skills/adspower-adspower-browser) - 当用户要求通过 AdsPower Local API 创建或管理 AdsPower 浏览器、分组、标签、代理或检查状态时使用。
+- [Agent Browser](https://clawskills.sh/skills/thesethrose-agent-browser) - 基于 Rust 的快速无头浏览器自动化 CLI。
+- [agent-browser](https://clawskills.sh/skills/murphykobe-agent-browser-2) - 自动化浏览器交互，用于 Web 测试、表单。
+- [agent-daily-planner](https://clawskills.sh/skills/gpunter-agent-daily-planner) - 用于 AI agent 的结构化每日规划和执行追踪系统。
+- [agent-device](https://clawskills.sh/skills/okwasniewski-agent-device) - 自动化 iOS 模拟器/设备和 Android 模拟器/设备的交互。
+- [agent-step-sequencer](https://clawskills.sh/skills/gostlightai-agent-step-sequencer) - 用于深度 agent 请求的多步骤调度器。
+- [agent-task-tracker](https://clawskills.sh/skills/rikouu-agent-task-tracker) - 主动式任务状态管理。
+- [agent-zero](https://clawskills.sh/skills/dowingard-agent-zero-bridge) - 委托复杂的编码、研究或自主任务。
+- [agentapi](https://clawskills.sh/skills/gizmo-dev-agentapi) - 浏览和搜索 AgentAPI 目录——一个专为 AI agent 精选的 API 数据库。
+- [agentapi-hub](https://clawskills.sh/skills/gizmo-dev-agentapi-hub) - 浏览和搜索 AgentAPI 目录——一个专为 AI agent 精选的 API 数据库。
+- [agentaudit](https://clawskills.sh/skills/starbuck100-agentaudit) - 在安装前对照漏洞数据库检查依赖包的自动安全门。
+- [agentaudit-skill](https://clawskills.sh/skills/starbuck100-agentaudit-skill) - 在安装前对照漏洞数据库检查依赖包的自动安全门。
+- [agentmail-integration](https://clawskills.sh/skills/synesthesia-wav-agentmail-integration) - 为 AI agent 集成 AgentMail API。
+- [agresource](https://clawskills.sh/skills/brianppetty-agresource) - 使用此技能抓取、总结和分析 AgResource 谷物营销通讯。
+- [ai-hunter-pro](https://clawskills.sh/skills/traprapitalianazional-dev-ai-hunter-pro) - 一个高性能自动化 agent，将全球热点转化为 X（Twitter）上的病毒式社交媒体帖子。
+- [ai-meeting-scheduling](https://clawskills.sh/skills/dheerg-ai-meeting-scheduling) - 预约链接对团队失效。
+- [airtable-automation](https://clawskills.sh/skills/sohamganatra-airtable-automation) - 通过 Rube MCP（Composio）自动化 Airtable 任务。
+- [airtable-participants](https://clawskills.sh/skills/austinmao-airtable-participants) - 从 Ceremonia Airtable 数据库读取和查询静修活动参与者数据。
+- [ak-rss-24h-brief](https://clawskills.sh/skills/seandong-ak-rss-24h-brief) - 从 OPML 列表读取 RSS/Atom 订阅源，抓取最近 N 小时的文章，并生成中文分类摘要。
+- [amazon-product-search-api-skill](https://clawskills.sh/skills/phheng-amazon-product-search-api-skill) - 此技能旨在帮助用户自动从亚马逊搜索结果中提取商品数据。
+- [amazon-reviews-api-skill](https://clawskills.sh/skills/phheng-amazon-reviews-api-skill) - 此技能帮助用户通过 Amazon Reviews API 自动提取亚马逊商品评论。
+- [amazon-shopper](https://clawskills.sh/skills/brennerspear-amazon-shopper) - 使用浏览器自动化在亚马逊上购买和退货。
+- [android-adb](https://clawskills.sh/skills/staticai-android-adb) - 通过 ADB 控制 Android 设备，支持 UI 布局分析。
+- [anycrawl](https://clawskills.sh/skills/techlaai-anycrawl) - OpenClaw 的 AnyCrawl API 集成——抓取、爬取和搜索网页。
+- [aoi-hackathon-scout-lite](https://clawskills.sh/skills/edmonddantesj-aoi-hackathon-scout-lite) - 公共安全的黑客松源码注册表 + 筛选输出（不爬取、不提交）。
+- [api-tester](https://clawskills.sh/skills/wanng-ide-api-tester) - 执行结构化的 HTTP/HTTPS 请求（GET、POST、PUT、DELETE），支持自定义请求头和 JSON body。
+- [apify-lead-generation](https://clawskills.sh/skills/jirispilka-apify-lead-generation) - 通过抓取 Google 生成 B2B/B2C 线索。
+- [apiosk](https://clawskills.sh/skills/obcraft-apiosk) - **按请求付费的 agent API 访问。**
+- [appstore-rating-pulse](https://clawskills.sh/skills/aligurelli-appstore-rating-pulse) - 监控任何 iOS 应用在多个国家的 App Store 评分。
+- [arxiv-1-0-1](https://clawskills.sh/skills/tariqsumatri82-arxiv-1-0-1) - 直接从 AI 助手搜索、获取和分析 arXiv.org 的学术论文。
+- [arxiv-skill-learning](https://clawskills.sh/skills/wanng-ide-arxiv-skill-learning) - 编排从 arXiv 论文持续学习新技能的流程。
+- [asr](https://clawskills.sh/skills/ilyakam-asr) - 快速、准确且极其便宜的自动语音转文字。
+- [atl-mobile](https://clawskills.sh/skills/jordancoin-atl-mobile) - 通过 ATL（iOS 模拟器）实现移动浏览器和原生应用自动化。
+- [audiomind](https://clawskills.sh/skills/wells1137-audiomind) - 终极 AI 音频生成技能。
+- [auto-context-manager](https://clawskills.sh/skills/imraxy-auto-context-manager) - AI 驱动的自动项目上下文管理。
+- [auto-dealer-marketing](https://clawskills.sh/skills/lazralabs-eng-auto-dealer-marketing) - 当用户想要创建、优化或规划汽车经销商营销时使用——包括库存。
+- [auto-updater](https://clawskills.sh/skills/maximeprades-auto-updater) - 自动更新 Clawdbot 和所有已安装技能一次。
+- [autofillin](https://clawskills.sh/skills/leohan123123-autofillin) - 自动化网页表单填写和文件上传技能。
+- [automation-workflows](https://clawskills.sh/skills/jk-0001-automation-workflows) - 设计和实施自动化工作流以节省时间。
+- [autonomy-windowed](https://clawskills.sh/skills/luciusrockwing-autonomy-windowed) - 基于时间窗口的自主任务队列。
+- [babyconnect](https://clawskills.sh/skills/kesslerio-babyconnect) - 用于线索管理、交易追踪的 ActiveCampaign CRM 集成。
+- [bamboohr-automation](https://clawskills.sh/skills/sohamganatra-bamboohr-automation) - 通过 Rube MCP（Composio）自动化 BambooHR 任务。
+- [baseball](https://clawskills.sh/skills/khaney64-baseball) - 通过 MLB Stats API 获取 MLB 比赛日程、实时比赛状态、技术统计、球员搜索和赛季数据。
+- [basecamp-automation](https://clawskills.sh/skills/sohamganatra-basecamp-automation) - 自动化 Basecamp 项目管理、待办事项。
+- [bitaxe-monitor](https://clawskills.sh/skills/pietro395-bitaxe-monitor) - 通过 HTTP API 监控 Bitaxe Gamma 比特币矿机状态。
+- [bits](https://clawskills.sh/skills/robbiethompson18-bits) - 通过 Bits MCP 服务器控制浏览器自动化 agent。
+- [book-fetch](https://clawskills.sh/skills/zerone0x-book-fetch) - 从 Anna's Archive 下载电子书（epub/pdf）并自动上传到 MEGA。
+- [bookmark-intelligence](https://clawskills.sh/skills/bkrigmo1-bookmark-intelligence) - 将 X 书签转化为可执行的洞察。
+- [box-automation](https://clawskills.sh/skills/sohamganatra-box-automation) - 自动化 Box 云存储操作，包括文件。
+- [brain-search](https://clawskills.sh/skills/ryandeangraves-brain-search) - **你必须使用 shell/exec 工具实际执行每个 curl 命令。** 读取真实的 HTTP 响应。
+- [browser-ladder](https://clawskills.sh/skills/ktpriyatham-browser-ladder) - 攀登浏览器阶梯——从免费开始，逐步升级。
+- [browser-use](https://clawskills.sh/skills/shawnpana-browser-use) - 使用 Browser Use 云 API 为 Clawdbot 启动云浏览器。
+- [browsh](https://clawskills.sh/skills/gumadeiras-browsh) - 一个现代的基于文本的浏览器。
+- [brw-linkedin-authority-builder](https://clawskills.sh/skills/brianrwagner-brw-linkedin-authority-builder) - 为思想领导力构建 LinkedIn 内容系统。
+- [brw-linkedin-authority-builder-1-0-0](https://clawskills.sh/skills/rezcarbon-brw-linkedin-authority-builder-1-0-0) - 为思想领导力构建 LinkedIn 内容系统。
+- [btc-analyzer](https://clawskills.sh/skills/newbienodes-btc-analyzer) - 从 Binance 公共 API 获取实时 BTCUSDT 15 分钟 K 线，并使用 EMA20 分析市场方向（上涨/下跌/跳过）。
+- [cal-com-automation](https://clawskills.sh/skills/sohamganatra-cal-com-automation) - 通过 Rube MCP（Composio）自动化 Cal.com 任务。
+- [camoufox](https://clawskills.sh/skills/goodgoodjm-camoufox) - 使用 Camoufox（基于 Firefox）的反检测浏览器自动化。
+- [catime](https://clawskills.sh/skills/yazelin-catime) - 获取并发送 AI 生成的整点猫咪图片。
+- [cdp-browser](https://clawskills.sh/skills/gostlightai-cdp-browser) - 在 localhost:9222 进行 CDP 浏览器控制。
+- [claude-cost-cli](https://clawskills.sh/skills/cyberash-dev-claude-cost-cli) - 从命令行查询 Claude API 使用量和成本报告。
+- [claude-usage-cli](https://clawskills.sh/skills/cyberash-dev-claude-usage-cli) - 从命令行查询 Claude API 使用量和成本报告。
+- [client-communication-engine](https://clawskills.sh/skills/satoshistackalotto-client-communication-engine) - 希腊语客户往来——提交确认、摘要、文档请求、提醒。
+- [client-data-management](https://clawskills.sh/skills/satoshistackalotto-client-data-management) - 面向希腊会计师事务所的安全客户数据库。
+- [client-flow](https://clawskills.sh/skills/ariktulcha-client-flow) - 自动化客户入职和项目生命周期管理。
+- [cls-news-scraper](https://clawskills.sh/skills/ningjingzhiyuande-cls-news-scraper) - 使用此技能从财联社（CLS）抓取实时市场新闻并提取利好催化剂。
+- [cn-ecommerce-search](https://clawskills.sh/skills/shopmeskills-cn-ecommerce-search) - 跨 8 个中国电商平台搜索商品：淘宝、天猫、京东、拼多多、1688、AliExpress、抖音、小红书。
+- [coda-io](https://clawskills.sh/skills/simonfunk-coda-io) - 通过 Coda REST API v1 与 Coda.io 文档、表格、行、页面和自动化交互。
+- [code-stats](https://clawskills.sh/skills/autogame-17-code-stats) - 通过统计文件数、代码行数并按扩展名分组来可视化仓库复杂度。
+- [code-stats](https://clawskills.sh/skills/wanng-ide-code-stats) - 通过统计文件数、代码行数并按扩展名分组来可视化仓库复杂度。
+- [code-tester](https://clawskills.sh/skills/frhn9-code-tester) - 构建、运行和测试 Rust、Go 和 Java 的代码项目。
+- [coingecko](https://clawskills.sh/skills/olisim02-coingecko) - 从 CoinGecko 免费 API 获取加密货币价格、市场数据和代币信息。
+- [comonyx-admin](https://clawskills.sh/skills/waqas-orcalo-comonyx-admin) - 管理员技能，用于登录 Cosmonyx、获取公司、筛选/导出（PDF 或 Excel），可选邮件发送导出文件。
+- [cputemp](https://clawskills.sh/skills/rhcit-cputemp) - 从 Yahoo Finance 获取实时股票行情。
+- [curlship](https://clawskills.sh/skills/marcindudekdev-curlship) - 向 CurlShip（一个对机器人友好的 SaaS 目录）提交产品。
+- [daily-dev-agentic](https://clawskills.sh/skills/idoshamun-daily-dev-agentic) - daily.dev Agentic Learning——通过 daily.dev 订阅流持续自我提升。
+- [daily-news](https://clawskills.sh/skills/ym2760184260-daily-news) - 每日从百度、Google 等来源获取热门新闻。
+- [db-readonly](https://clawskills.sh/skills/reed1898-db-readonly) - 对 MySQL 或 PostgreSQL 执行安全的只读查询，用于数据检查、报告和故障排查。
+- [db-readonly](https://clawskills.sh/skills/ryanhong666-db-readonly) - 对 MySQL 或 PostgreSQL 执行安全的只读查询，用于数据检查、报告和故障排查。
+- [desearch-x-search](https://clawskills.sh/skills/okradze-desearch-x-search) - 实时搜索 X（Twitter）。
+- [doro-command-creator](https://clawskills.sh/skills/a2mus-doro-command-creator) - 功能：创建 Claude Code 斜杠命令——可通过 /command-name 调用的可复用 Markdown 工作流。
+- [duoplus-agent](https://clawskills.sh/skills/duoplusofficial-duoplus-agent) - 通过 ADB 控制 DuoPlus 云手机。
+- [dune-analytics-api](https://clawskills.sh/skills/lz-web3-dune-analytics-api) - 用于区块链数据查询的 Dune Analytics API。
+- [echo-repeater](https://clawskills.sh/skills/theeightt-echo-repeater) - 将用户输入回显给用户，可选择 "Echo:" 或 "You said:" 等前缀格式。
+- [edstem](https://clawskills.sh/skills/axel5o5-edstem) - 为任何课程或机构获取、同步和整理 EdStem 讨论帖子。
+- [entity-optimizer](https://clawskills.sh/skills/aaron-he-zhu-entity-optimizer) - 当用户要求"优化实体存在"、"构建知识图谱"、"改进知识面板"、"实体"时使用。
+- [erpnext-frappe](https://clawskills.sh/skills/ravana-indus-erpnext-frappe) - 将多个 MCP 工具组合成可复用、可执行技能的高级业务工作流，用于 ERPNext。
+- [error-driven-evolution](https://clawskills.sh/skills/marsnavi-error-driven-evolution) - 用于 AI agent 的结构化错误转规则学习系统。
+- [evomap](https://clawskills.sh/skills/segasonicye-evomap) - 连接到 EvoMap 协同进化市场。
+- [exa-tool](https://clawskills.sh/skills/claireaicodes-exa-tool) - 用于高级搜索、研究和爬取的 Exa MCP 集成。
+- [external-ki-integration-backup](https://clawskills.sh/skills/konscious0beast-external-ki-integration-backup) - 通过浏览器自动化（Chrome Relay）访问外部 AI 服务（ChatGPT、Claude、Hugging Face 等）的技能。
+- [fastfold-ai-fold](https://clawskills.sh/skills/juliocesar-io-fastfold-ai-fold) - 通过 Jobs API 提交和管理 FastFold 蛋白质折叠任务。
+- [fatsecret](https://clawskills.sh/skills/f-liva-fatsecret) - FatSecret 营养 API 集成，用于食物搜索、营养查询、条形码扫描、食谱搜索和食物。
+- [feed-digest](https://clawskills.sh/skills/odysseus0-feed-digest) - 使用 feed CLI 的 agent 化订阅源摘要。
+- [feishu-bitable-creator](https://clawskills.sh/skills/gaowanqi08141999-feishu-bitable-creator) - 创建和填充飞书（Lark）多维表格（Bitable），并自动清理。
+- [feishu-meeting-assistant](https://clawskills.sh/skills/autogame-17-feishu-meeting-assistant) - 扫描飞书日历中带有附加文档（文档、表格、多维表格）的即将到来的事件，读取其内容。
+- [feishu-sheets](https://clawskills.sh/skills/wesley138cn-feishu-sheets) - 飞书在线表格（Sheets）操作，包括创建、读取、写入、追加数据、管理工作表。
+- [feishu-sheets-skill](https://clawskills.sh/skills/wesley138cn-feishu-sheets-skill) - 飞书在线表格（Sheets）操作，包括创建、读取、写入、追加数据、管理工作表。
+- [fin-cog](https://clawskills.sh/skills/nitishgargiitd-fin-cog) - 华尔街级别的分析，全球可访问。
+- [firefly](https://clawskills.sh/skills/codes71-firefly) - 从 Firefly AI（fireflies.ai）获取会议记录、摘要和行动事项。
+- [free-a-share-real-time-data](https://clawskills.sh/skills/wangdinglu-free-a-share-real-time-data) - 通过 mootdx/TDX 协议获取中国 A 股市场数据（K 线、实时行情、逐笔成交）。
+- [ft-reader](https://clawskills.sh/skills/zhouziyue233-ft-reader) - 使用此技能对《金融时报》（ft.com）的顶级文章进行深度、结构化和双语分析。
+- [fxtwitter](https://clawskills.sh/skills/namphamdev-fxtwitter) - 使用 fxTwitter API（api.fxtwitter.com）从 X（Twitter）链接获取推文/帖子数据。
+- [geo-content-optimizer](https://clawskills.sh/skills/aaron-he-zhu-geo-content-optimizer) - 当用户要求"为 AI 优化"、"被 ChatGPT 引用"、"AI 优化"、"出现在 AI 回答中"时使用。
+- [geometry](https://clawskills.sh/skills/geometrydotsh-geometry) - 从文本提示生成 AI 图像。
+- [get-kalshi-live-games](https://clawskills.sh/skills/kanakamedalasumanth-get-kalshi-live-games) - 使用浏览器获取当前进行中的 Kalshi 体育市场。
+- [glm-image](https://clawskills.sh/skills/chunhualiao-glm-image) - 使用 GLM-Image API 生成图像。
+- [goal-tracker](https://clawskills.sh/skills/alti-systems-goal-tracker) - 通过里程碑、每日日志和问责机制追踪长期目标。
+- [goldenseed](https://clawskills.sh/skills/beanapologist-goldenseed) - 用于可复现测试和程序化生成的确定性熵流。
+- [goyfiles-epstein](https://clawskills.sh/skills/davfd-goyfiles-epstein) - 核心 GOYFILES 外部机器人合约（端点优先接入、严格的 agent 行为、直接工具模式）。
+- [grago](https://clawskills.sh/skills/solsuk-grago) - **将研究和数据获取任务委托给免费的本地 LLM。**
+- [grok-browser](https://clawskills.sh/skills/easonc13-grok-browser) - 通过浏览器自动化查询 Grok AI。
+- [guicountrol](https://clawskills.sh/skills/dreamtraveler13-guicountrol) - 使用 xdotool、wmctrl 和 dogtail 控制 Linux 桌面 GUI。
+- [hfnews](https://clawskills.sh/skills/huberteff-hfnews) - 从多个来源获取和筛选新闻，支持停用词/黑名单。
+- [hi](https://clawskills.sh/skills/roman181-hi) - 捕获学习、错误和纠正以实现持续改进。
+- [hive-mind](https://clawskills.sh/skills/lilyjazz-hive-mind) - 使用共享的 TiDB Zero 数据库在多个 agent 之间同步记忆。
+- [hle-benchmark-evolver](https://clawskills.sh/skills/wanng-ide-hle-benchmark-evolver) - 为 capability-evolver 运行面向 HLE 的基准奖励摄取和课程生成。
+- [huggingface-trends](https://clawskills.sh/skills/tianxingleo-huggingface-trends) - 监控和获取 Hugging Face 上的热门模型，支持按任务、库和流行度筛选。
+- [image-enhancer](https://clawskills.sh/skills/wells1137-image-enhancer) - 通过提升分辨率、锐度和清晰度来改善图像（尤其是截图）的质量。
+- [imprettyamazing](https://clawskills.sh/skills/macksmind-imprettyamazing) - 与 I'm Pretty Amazing（imprettyamazing.com）交互——一个用于追踪和庆祝成就的平台。
+- [index-cards](https://clawskills.sh/skills/jonwheatley-index-cards) - 通过邮件发送真实的纸质贺卡。
+- [input-classification-v1](https://clawskills.sh/skills/omprasad122007-rgb-input-classification-v1) - 基于确定性规则的系统，将澄清后的输入分类为单一主要任务类别并分配。
+- [instagram-scraper](https://clawskills.sh/skills/arulmozhiv-instagram-scraper) - 基于浏览器的 Instagram 资料发现和抓取工具。
+- [interesting-finding](https://clawskills.sh/skills/zerone0x-interesting-finding) - 处理 #interesting-finding Discord 频道中分享的链接和内容。
+- [invoice-collector](https://clawskills.sh/skills/mintannn-invoice-collector) - 从 Gmail 收集发票/收据并发送带有附件的摘要邮件。
+- [ipfs-client](https://clawskills.sh/skills/apexfork-ipfs-client) - 只读 IPFS 查询——获取文件、检查元数据、探索 DAG 并通过本地或公共解析 IPNS 名称。
+- [iserv](https://clawskills.sh/skills/finnbusse-iserv) - 用于 IServ 学校平台的 HTTP 客户端。
+- [itinerary-carousel-post](https://clawskills.sh/skills/psyduckler-itinerary-carousel-post) - 从 tabiji.ai 行程创建并发布 Instagram 轮播帖子。
+- [itinerary-carousel-post-topaz](https://clawskills.sh/skills/psyduckler-itinerary-carousel-post-topaz) - 从 tabiji.ai 行程创建并发布 Instagram 轮播帖子，带有 Topaz Labs AI 图像增强。
+- [iyeque-device-control](https://clawskills.sh/skills/iyeque-iyeque-device-control) - 为个人自动化暴露安全的设备操作（音量、亮度、打开/关闭应用）。
+- [jarvis-api-contract-guard-01](https://clawskills.sh/skills/xammarie-jarvis-api-contract-guard-01) - 设计和验证 API 合约的向后兼容性。
+- [jarvis-bug-triage-01](https://clawskills.sh/skills/xammarie-jarvis-bug-triage-01) - 通过复现隔离和风险优先修复快速分诊生产环境 bug。
+- [jarvis-ci-flake-hunter-01](https://clawskills.sh/skills/xammarie-jarvis-ci-flake-hunter-01) - 通过确定性隔离追踪和减少不稳定测试。
+- [jarvis-db-query-doctor-01](https://clawskills.sh/skills/xammarie-jarvis-db-query-doctor-01) - 诊断慢 SQL 并重写查询以获得更安全的性能。
+- [jarvis-migration-risk-radar-01](https://clawskills.sh/skills/xammarie-jarvis-migration-risk-radar-01) - 评估迁移风险并设计分阶段发布。
+- [jarvis-persona-style-calibrator-01](https://clawskills.sh/skills/xammarie-jarvis-persona-style-calibrator-01) - 根据语气、边界和受众上下文校准助手人格。
+- [jarvis-test-gap-finder-01](https://clawskills.sh/skills/xammarie-jarvis-test-gap-finder-01) - 根据故障模式和业务影响发现缺失的测试。
+- [jobs-ive](https://clawskills.sh/skills/stubbi-jobs-ive) - 融合 Steve Jobs 和 Jony Ive 的产品哲学，进行产品、设计、信息、命名。
+- [level-design-patterns](https://clawskills.sh/skills/cryptorabea-level-design-patterns) - 在创建 Unity 游戏场景和原型、构建关卡设计或自动化 Unity Editor 工作流时使用。
+- [lifi-skill](https://clawskills.sh/skills/fabriziogianni7-lifi-skill) - v4——使用 LI.FI API 进行跨链和同链兑换、桥接和合约调用。
+- [lightningprox](https://clawskills.sh/skills/unixlamadev-spec-lightningprox) - 通过 Bitcoin Lightning 使用预付费代币进行按请求付费的 AI 模型访问。
+- [line-oa](https://clawskills.sh/skills/picseeinc-line-oa) - 通过浏览器自动化操作 LINE Official Account Manager（chat.line.biz）。
+- [link-digest](https://clawskills.sh/skills/zerone0x-link-digest) - 处理指定"有趣发现"Discord 频道中分享的链接和内容。
+- [linux-desktop](https://clawskills.sh/skills/ouyangabel-linux-desktop) - Linux 桌面自动化和控制。
+- [linz-public-transport](https://clawskills.sh/skills/fjrevoredo-linz-public-transport) - 查询 Linz Linien 原始 EFA 端点，用于站点查询和实时出发信息。
+- [lnget](https://clawskills.sh/skills/roasbeef-lnget) - 安装和使用 lnget，一个支持自动 L402 支付的 Lightning 原生 HTTP 客户端。
+- [lofy-fitness](https://clawskills.sh/skills/harrey401-lofy-fitness) - Lofy AI 助手的健身问责——自然语言锻炼记录、饮食追踪。
+- [logistics-tracking](https://clawskills.sh/skills/shopmeskills-logistics-tracking) - 按追踪号追踪国际包裹。
+- [lygo-guardian-p0-stack](https://clawskills.sh/skills/deepseekoracle-lygo-guardian-p0-stack) - LYGO Guardian 基础技能——纳米内核（P0.4）、理解之心（P0.5）和轻数学和谐，作为可移植。
+- [lyrical-fable](https://clawskills.sh/skills/sanzgiri-lyrical-fable) - 创作关于历史、虚构或神话人物的简短抒情寓言（约 1000 字），风格。
+- [mac-control](https://clawskills.sh/skills/easonc13-mac-control) - 使用 cliclick 和 AppleScript 通过鼠标/键盘自动化控制 Mac。
+- [mac-use](https://clawskills.sh/skills/kekejun-mac-use) - 可视化控制 macOS GUI 应用——截图、点击、滚动、输入。
+- [macos-calendar](https://clawskills.sh/skills/lucaperret-macos-calendar) - 通过 AppleScript 创建、列出和管理 macOS 日历事件。
+- [macos-reminders](https://clawskills.sh/skills/lucaperret-macos-reminders) - 通过 AppleScript 创建、列出和管理 macOS 提醒事项。
+- [map-grabber](https://clawskills.sh/skills/qrost-map-grabber) - 获取地址的 OpenStreetMap 矢量数据（街道、建筑物），并导出为 SVG、GeoPackage 或 DXF，用于 CAD/Rhino。
+- [market-pulse](https://clawskills.sh/skills/lopushok9-market-pulse) - 当用户询问加密货币价格、DeFi 收益率、市场情绪、恐惧贪婪指数、股票价格、即将。
+- [market-snapshot](https://clawskills.sh/skills/nicholasoxford-market-snapshot) - 获取代币市场快照（价格/流动性/交易量）并返回稳定的 JSON（由 Jupiter 支持）。
+- [market-test-price](https://clawskills.sh/skills/li-zoe-x-market-test-price) - 从 OKX DEX 市场价格 API（v6）获取代币价格。
+- [math-worksheets](https://clawskills.sh/skills/trondw-math-worksheets) - 生成专业的数学练习题和完整答案，输出为 PDF。
+- [mcp-chrome](https://clawskills.sh/skills/femto-mcp-chrome) - 使用 MCP 协议用 AI 控制 Chrome 浏览器。
+- [mealie](https://clawskills.sh/skills/g1mb01d-mealie) - 通过 REST API 与自托管的 Mealie 实例（食谱管理和膳食规划器）交互。
+- [meeting-notes-pro](https://clawskills.sh/skills/olivermonneke-meeting-notes-pro) - 你是一位会议效率专家。
+- [menews](https://clawskills.sh/skills/jamesmenews-menews) - AI 驱动的加密货币和 AI 市场情报中心。
+- [memberstack-cli](https://clawskills.sh/skills/bensabic-memberstack-cli) - 使用 Memberstack CLI 从终端管理 Memberstack 账户。
+- [meta-fb-inbox](https://clawskills.sh/skills/picseeinc-meta-fb-inbox) - 通过 Meta Business Suite 浏览器自动化检查 Facebook 主页收件箱消息。
+- [metengine-data-agent](https://clawskills.sh/skills/saviour1001-metengine-data-agent) - 用于 Polymarket 预测市场、Hyperliquid 永续合约和 Meteora 的实时智能资金分析 API。
+- [mh-notion](https://clawskills.sh/skills/mohdalhashemi98-hue-mh-notion) - 用于创建和管理页面、数据库和区块的 Notion API。
+- [minimal-memory](https://clawskills.sh/skills/zencrust-ai-minimal-memory) - 通过 GOOD/BAD/NEUTRAL 分类和语义搜索维护干净、高效的记忆文件。
+- [minimax-speech](https://clawskills.sh/skills/wingchiu-minimax-speech) - 管理 MiniMax Speech 2.8 T2A（文字转音频）和语音目录查询。
+- [mobilerun](https://clawskills.sh/skills/johnmalek312-mobilerun) - 控制 Android 设备：点击、滑动、输入、截图（iOS 即将推出）。
+- [mukt](https://clawskills.sh/skills/hgosansn-mukt) - 零成本 OpenRouter 响应器，自动发现当前最佳免费模型，失败时重试，并返回。
+- [multilogin](https://clawskills.sh/skills/glebkazachinskiy-multilogin) - 当你需要管理 Multilogin X 浏览器配置文件时使用——启动快速一次性配置文件、列出/启动/停止已保存。
+- [multiloginx](https://clawskills.sh/skills/multilogincom-multiloginx) - 当你需要管理 Multilogin X 浏览器配置文件时使用——启动快速一次性配置文件、列出/启动/停止已保存。
+- [mupibox-media-db](https://clawskills.sh/skills/tomquist-mupibox-media-db) - 通过 MuPiBox 后端 API 管理 MuPiBox 媒体数据库（data.json）：列出、添加、删除、移动、编辑字段。
+- [my-nano-image](https://clawskills.sh/skills/namebekc-my-nano-image) - 使用 Nano Banana Pro（Gemini 3 Pro Image）生成/编辑图像。
+- [native-airtable](https://clawskills.sh/skills/codeninja23-native-airtable) - 通过 Airtable API 直接读取 Airtable 数据库、表和记录。
+- [naverstock-skill](https://clawskills.sh/skills/seungdols-naverstock-skill) - 使用 Naver Finance 获取基于文本的实时股价（韩国 KRX、海外）。
+- [nblm](https://clawskills.sh/skills/magicseek-nblm) - 使用此技能直接从 Claude Code 查询你的 Google NotebookLM 笔记本，用于有据可依的。
+- [near-qr-skill](https://clawskills.sh/skills/ussyalfaks-near-qr-skill) - 为 NEAR 地址和支付请求生成二维码，并从图像读取 NEAR 二维码。
+- [ned-analytics](https://clawskills.sh/skills/matt998759-ned-analytics) - 通过 Ned 的 API 查询你的 Shopify 商店的销售、盈利能力、客户和营销数据。
+- [neynar-inbox](https://clawskills.sh/skills/rishavmukherji-neynar-inbox) - AI agent 的电子邮件。
+- [norman-manage-clients](https://clawskills.sh/skills/stanlee000-norman-manage-clients) - 管理业务客户——列出、搜索、创建或更新客户信息。
+- [nova-act](https://clawskills.sh/skills/zouchaoqun-nova-act) - 使用 Amazon Nova Act 编写和执行 Python 脚本，用于 AI 驱动的浏览器自动化任务，如航班。
+- [nso-macro-monitor](https://clawskills.sh/skills/ndtchan-nso-macro-monitor) - 监控越南统计局官方月度和季度社会经济发布，并比较同期趋势；用于。
+- [obverse-payments](https://clawskills.sh/skills/ofuzorchukwuemeke-obverse-payments) - 端到端稳定币支付——链接、发票、收据、仪表板——跨 Telegram、WhatsApp、Discord。
+- [ogment-agentic-cli](https://clawskills.sh/skills/asoviche-ogment-agentic-cli) - 通过 Ogment 安全地访问业务集成（SaaS、API、数据）。
+- [ohio-state-api](https://clawskills.sh/skills/sichengchen-ohio-state-api) - 通过俄亥俄州立大学内容 API（content.osu.edu）获取跨校园服务（公交）的公共数据。
+- [ontario-course-planning](https://clawskills.sh/skills/icej-ontario-course-planning) - 安大略省（加拿大）高中课程规划（9-12 年级），与大学录取和 Top 6（12U/M）对齐。
+- [open-chrome-tabs](https://clawskills.sh/skills/mindsocket-open-chrome-tabs) - 从 Chrome 或其他 Chromium 浏览器（Arc、Brave、Edge 等）读取当前打开的浏览器标签页。
+- [openrouter-usage](https://clawskills.sh/skills/rosseyre-openrouter-usage) - 获取实时 OpenRouter 使用总量和每个模型的历史支出。
+- [org-memory](https://clawskills.sh/skills/dcprevere-org-memory) - 使用 org-mode 文件的结构化知识库和任务管理。
+- [osv-scanner](https://clawskills.sh/skills/moenassi-osv-scanner) - 将位于 template 中的 ScanResult 文件扩展名从 txt 更改为 xlsx。
+- [otta-cli](https://clawskills.sh/skills/mekedron-otta-cli) - 使用 `otta-cli` 从终端自动化 `otta.fi` 工作流。
+- [paper-notion-summarizer](https://clawskills.sh/skills/lococaeco-paper-notion-summarizer) - 通过标题或 arXiv/DOI 链接获取论文元数据，创建深度结构化摘要，并作为 Notion 页面发布。
+- [paperpod](https://clawskills.sh/skills/shassingh09-paperpod) - 用于代码执行的隔离 agent 运行时、实时预览 URL、浏览器自动化、50+ 工具（ffmpeg、sqlite。
+- [paylock](https://clawskills.sh/skills/kgnvsk-paylock) - 用于 AI agent 交易的非托管 SOL 托管。
+- [payment-gateway-payram](https://clawskills.sh/skills/buddhasource-payment-gateway-payram) - 在 10 秒内为你的应用、agent 或 SaaS 添加支付功能。
+- [paymentsdb](https://clawskills.sh/skills/ramonverse-paymentsdb) - 从同步的 PostgreSQL 数据库查询 Stripe 客户和账单数据。
+- [pc-master](https://clawskills.sh/skills/amirgu-pc-master) - 从 WSL2 控制 Windows PC。
+- [perpetua](https://clawskills.sh/skills/danielkillenberger-perpetua) - 通过 Perpetua.sh 托管 API 调用外部 API（Oura、Google Calendar 等）的 OAuth 代理，使用单一 API。
+- [personal-goals](https://clawskills.sh/skills/gekacross-personal-goals) - 在"目标"话题中充当用户的目标设定和问责伙伴。
+- [personal-sleep](https://clawskills.sh/skills/gekacross-personal-sleep) - 在"睡眠"话题中充当用户的睡眠教练。
+- [phantombuster](https://clawskills.sh/skills/capt-marbles-phantombuster) - 通过 API 控制 PhantomBuster 自动化 agent。
+- [pharma-pharmacology-agent](https://clawskills.sh/skills/cheminem-pharma-pharmacology-agent) - 用于候选药物 ADME/PK 分析的药理学 agent（从 SMILES）。
+- [pipelock](https://clawskills.sh/skills/luckypipewrench-pipelock) - 通过扫描代理保护 agent HTTP 请求，捕获凭据泄露、SSRF 和提示注入。
+- [pocket-lens](https://clawskills.sh/skills/edenjw-pocket-lens) - 当用户想要追踪支出、扫描收据、上传卡支付截图、分类支出、记录时使用。
+- [pocketlens](https://clawskills.sh/skills/edenjw-pocketlens) - 当用户想要追踪支出、扫描收据、上传卡支付截图、分类支出、记录时使用。
+- [podcast-to-substack](https://clawskills.sh/skills/danielfoch-podcast-to-substack) - 从 RSS + Notion 将播客节目发布到 Substack，具有可靠的 Apple Podcasts 嵌入和图像提取。
+- [poker-agent](https://clawskills.sh/skills/clementsutjiatma-poker-agent) - 在链上与其他 AI agent 和人类对战德州扑克。
+- [portfolio-tracker](https://clawskills.sh/skills/vachanalaviswanath-portfolio-tracker) - 在 Yahoo Finance 上使用浏览器自动化实现实时投资组合追踪和分析。
+- [postcraft](https://clawskills.sh/skills/theoking63-postcraft) - 自动格式化和润色 MoltBook 帖子——标题、项目符号、代码块和表格，以获得更好的。
+- [postcraft-t3](https://clawskills.sh/skills/theoking63-postcraft-t3) - 自动格式化和润色 MoltBook 帖子——标题、项目符号、代码块和表格，以获得更好的。
+- [powerdrill-data-analysis-skill](https://clawskills.sh/skills/javainthinking-powerdrill-data-analysis-skill) - 当用户想要使用 Powerdrill 分析、探索、可视化或查询数据时，应使用此技能。
+- [powerdrill-skills](https://clawskills.sh/skills/javainthinking-powerdrill-skills) - 当用户想要使用 Powerdrill 分析、探索、可视化或查询数据时，应使用此技能。
+- [printpal-3d](https://clawskills.sh/skills/plebbyd-printpal-3d) - 使用 PrintPal API 从图像或文本提示生成用于 3D 打印的 3D 模型。
+- [qdrant-advanced](https://clawskills.sh/skills/yoder-bawt-qdrant-advanced) - 用于 AI agent 的高级 Qdrant 向量数据库操作。
+- [questions-form](https://clawskills.sh/skills/edonadei-questions-form) - 使用内联按钮以交互式 Telegram 表单呈现多个澄清问题。
+- [raiffeisen-elba](https://clawskills.sh/skills/odrobnik-raiffeisen-elba) - 自动化 Raiffeisen ELBA 网上银行：登录/退出、列出账户并通过 Playwright 获取交易。
+- [reasonlayer-app-access](https://clawskills.sh/skills/tiger01tgr-reasonlayer-app-access) - 让你的 AI agent 访问 Gmail。
+- [research-reprompter](https://clawskills.sh/skills/dorukardahan-research-reprompter) - 将粗略的研究问题转化为可执行的 USACF 研究提示。
+- [rss-digest](https://clawskills.sh/skills/odysseus0-rss-digest) - 使用 feed CLI 的 agent 化 RSS 摘要。
+- [saas-worker](https://clawskills.sh/skills/juniorxcoder-saas-worker) - 构建和发布盈利的 SAAS 产品。
+- [sap-integration](https://clawskills.sh/skills/highlander89-sap-integration) - 面向 ABAP、HANA、S/4HANA 环境的 SAP 系统集成、数据提取和自动化。
+- [scrapbook-illustrator](https://clawskills.sh/skills/chunhualiao-scrapbook-illustrator) - 使用图像生成（GLM 或 OpenRouter）将剪贴簿风格插图插入文章。
+- [scrapyard](https://clawskills.sh/skills/aetosset-scrapyard) - 玩 SCRAPYARD——AI agent 竞技场。
+- [sentry-issues](https://clawskills.sh/skills/dave-b-b-sentry-issues) - 从 Sentry 错误追踪中获取和分析问题。
+- [sergei-mikhailov-tg-channel-reader](https://clawskills.sh/skills/bzsega-sergei-mikhailov-tg-channel-reader) - 通过 MTProto（Pyrogram 或 Telethon）读取和总结 Telegram 频道帖子。
+- [sg-property-scraper](https://clawskills.sh/skills/5kbpers-sg-property-scraper) - 使用灵活的筛选条件搜索新加坡房产租赁和出售信息。
+- [shellmail](https://clawskills.sh/skills/aaronbatchelder-shellmail) - AI agent 的电子邮件 API。
+- [shopping-list](https://clawskills.sh/skills/ajeenkya-shopping-list) - 带分类、家庭共享和购买记录的对话式购物清单。
+- [shortcut-skill](https://clawskills.sh/skills/incognos-shortcut-skill) - 访问和管理 Shortcut.com（原 Clubhouse）项目管理。
+- [siyuan-task-skill](https://clawskills.sh/skills/zhhkheaven-siyuan-task-skill) - 通过 HTTP API 在思源笔记中管理任务。
+- [skilldevelop](https://clawskills.sh/skills/raghuraam25-skilldevelop) - 捕获学习、错误和纠正以实现持续改进。
+- [slashbot](https://clawskills.sh/skills/alphabot-ai-slashbot) - 与 slashbot.net 交互——一个面向 AI agent 的 Hacker News 风格社区。
+- [smart-linkedin-inbox](https://clawskills.sh/skills/vdybenko-smart-linkedin-inbox) - 由 Linxa 驱动的 LinkedIn 收件箱管理器和对话助手。
+- [smb-sales-boost-leads](https://clawskills.sh/skills/tomsonx232-smb-sales-boost-leads) - 从 SMB Sales Boost B2B 线索数据库查询和管理线索。
+- [snail-mail](https://clawskills.sh/skills/dvdegenz-snail-mail) - 一个慢速通道收件箱，用于给操作员留下重要信息。
+- [snailmail](https://clawskills.sh/skills/dvdegenz-snailmail) - 一个慢速通道收件箱，用于给操作员留下重要信息。
+- [snapbyte-digest-api](https://clawskills.sh/skills/onatm-snapbyte-digest-api) - 通过 API 密钥认证从 Snapbyte External API 获取个性化开发者新闻摘要。
+- [sota-tracker-mcp](https://clawskills.sh/skills/romancircus-sota-tracker-mcp) - **最先进 AI 模型的权威开源数据库。**
+- [sovereign-roast-coach](https://clawskills.sh/skills/ryudi84-sovereign-roast-coach) - 你是具有两种人格模式的问责教练。
+- [sports-betting](https://clawskills.sh/skills/skinnynoizze-sports-betting) - 通过 Pinwin 和 Azuro 在链上进行和领取去中心化体育博注：实时赔率、高流动性、无托管。
+- [stability-ai](https://clawskills.sh/skills/1999azzar-stability-ai) - 通过 Stability AI API（SDXL、SD3、Stable Image Core）生成高质量图像。
+- [stakingverse-lukso](https://clawskills.sh/skills/luksoagent-stakingverse-lukso) - 在 Stakingverse 上质押 LYX 代币（LUKSO 流动性质押）。
+- [stealth-proxy](https://clawskills.sh/skills/h4gen-stealth-proxy) - 通过编排实现安全网络隧道设置、地理访问诊断和泄露感知任务恢复的元技能。
+- [stealthy-google-search](https://clawskills.sh/skills/itzsubhadip-stealthy-google-search) - 通过 Scrapling 的 StealthyFetcher/StealthySession 进行 Google 搜索。
+- [stock-picker-orchestrator](https://clawskills.sh/skills/ndtchan-stock-picker-orchestrator) - 充当元编排器，跨数据、宏观/新闻和估值技能路由股票分析请求。
+- [stock-prices](https://clawskills.sh/skills/anthonylee1994-stock-prices) - 使用 Stock Prices API 查询实时股价和市场数据。
+- [strapi](https://clawskills.sh/skills/ilya-ryzhov-strapi) - 通过官方 @strapi/client SDK 管理 Strapi CMS 内容。
+- [student-timetable](https://clawskills.sh/skills/extraterrest-student-timetable) - 用于自我管理或家长管理孩子资料的学生课程表管理器。
+- [substack-writer](https://clawskills.sh/skills/shivak11-substack-writer) - 撰写关于 GenAI、教育、教育科技及其交叉领域的长文 Substack 通讯。
+- [subwayskill](https://clawskills.sh/skills/nyluke-subwayskill) - 获取纽约地铁出发时间。
+- [super-browser](https://clawskills.sh/skills/heldinhow-super-browser) - **终极浏览器自动化框架。** 结合了 8 个顶级浏览器技能的精华。
+- [table-mountain-status](https://clawskills.sh/skills/zopyx-table-mountain-status) - 通过官方天气 API 获取和报告桌山空中缆车状态。
+- [tageblatt-headlines](https://clawskills.sh/skills/zopyx-tageblatt-headlines) - 从 https://www.tageblatt.de/ 下载并存档每日 Schlagzeilen（头条新闻）。
+- [taskline](https://clawskills.sh/skills/brettburbidge-taskline) - 通过 MyTaskline.com 实现的 AI 驱动自然语言任务管理。
+- [tbot-controller](https://clawskills.sh/skills/plusgenie-tbot-controller) - 通过受控自动化接口（DB 优先查询；生命周期）操作 TradingBoat/TBOT（TBOT 运行时栈）。
+- [teams-hack](https://clawskills.sh/skills/globalcaos-teams-hack) - 你的 agent 读取 Teams 聊天、发布到频道、搜索所有内容。
+- [teamwork](https://clawskills.sh/skills/chenxinbest-teamwork) - 为复杂任务动态创建和管理 AI agent 团队。
+- [telegram-context](https://clawskills.sh/skills/fourthdensity-telegram-context) - 可切换的技能，在会话开始时获取 Telegram 消息历史以实现对话连续性。
+- [telegram-history](https://clawskills.sh/skills/rhlsthrm-telegram-history) - 通过 MTProto 用户 API（Telethon）获取 Telegram 聊天消息历史。
+- [testskillx](https://clawskills.sh/skills/natx223-testskillx) - 调用 GET 端点获取每日帖子的简单测试技能。
+- [tg-history](https://clawskills.sh/skills/ls18166407597-design-tg-history) - 高效地以文本形式提取和读取 Telegram 群聊历史，绕过截图/OCR 以实现零 token 浪费。
+- [tg-mtproto-cli](https://clawskills.sh/skills/cyberash-dev-tg-mtproto-cli) - 通过 MTProto 的只读 Telegram CLI。
+- [theswarm](https://clawskills.sh/skills/marketingax-theswarm) - 作为 AI agent 赚取被动收入。
+- [tiktok-crawling](https://clawskills.sh/skills/romneyda-tiktok-crawling) - 用于 TikTok 爬取、内容检索和分析。
+- [trending-skills](https://clawskills.sh/skills/hjw21century-trending-skills) - 获取 skills.sh 热门排行。
+- [trendyol-admin](https://clawskills.sh/skills/awelab-trendyol-admin) - 通过 API v2.0 全面管理 Trendyol 市场。
+- [truenas-skill](https://clawskills.sh/skills/anotb-truenas-skill) - 通过 API 管理 TrueNAS SCALE。
+- [tushare-base](https://clawskills.sh/skills/wdblink-tushare-base) - 通过 Tushare API 获取中国股票和期货市场数据。
+- [twit-mcp](https://clawskills.sh/skills/etherlect-twit-mcp) - 通过 x402 微支付的实时 X/Twitter 数据。
+- [ub2-markdown-report-generator](https://clawskills.sh/skills/underbench2-gif-ub2-markdown-report-generator) - 使 Claw 能够将来自多个来源的信息编译成精美、结构良好的 Markdown。
+- [url2pdf](https://clawskills.sh/skills/guoqiao-url2pdf) - 将 URL 转换为适合移动端阅读的 PDF。
+- [url2png](https://clawskills.sh/skills/guoqiao-url2png) - 将 URL 转换为适合移动端阅读的 PNG。
+- [user-briefing](https://clawskills.sh/skills/sai-sh-user-briefing) - 获取天气、日历事件、邮件和任务，创建个性化的早安简报。
+- [using-superpowers](https://clawskills.sh/skills/zlc000190-using-superpowers) - 在开始任何对话时使用——建立如何查找和使用技能的方法，需要调用 Skill 工具。
+- [valiron-trust-layer](https://clawskills.sh/skills/vatsashah45-valiron-trust-layer) - 使用 @valiron/sdk 信任决策拦截和授权外发的机器对机器支付（x402 或类似）。
+- [vibe-notion](https://clawskills.sh/skills/devxoul-vibe-notion) - 使用非官方私有 API 与 Notion 交互——页面、数据库、区块、搜索、用户、评论。
+- [virtual-reading-group](https://clawskills.sh/skills/isonaei-virtual-reading-group) - 编排一个多 agent 虚拟学术读书会。
+- [vnstock-free-expert](https://clawskills.sh/skills/ndtchan-vnstock-free-expert) - 运行端到端 vnstock 工作流，用于免费层安全的越南股票估值、排名和 API 操作。
+- [wakapi-sync-skill](https://clawskills.sh/skills/cosformula-wakapi-sync-skill) - 每日 Wakapi（兼容 WakaTime）摘要 → 本地 CSV 文件。
+- [wallabag](https://clawskills.sh/skills/fbrandel-wallabag) - 通过带有 OAuth2 认证的 Wallabag 开发者 API 管理 Wallabag 书签，包括创建。
+- [weibo-manager](https://clawskills.sh/skills/hmyaoyuan-weibo-manager) - 通过 Puppeteer（非官方 API）控制微博。
+- [wilma](https://clawskills.sh/skills/aikarjal-wilma) - 从 AI agent 访问芬兰的 Wilma 学校系统。
+- [wilma-triage](https://clawskills.sh/skills/aikarjal-wilma-triage) - 为芬兰家长每日分诊 Wilma 学校通知。
+- [windsensei](https://clawskills.sh/skills/jumptrnr-windsensei) - 检查风帆运动（风筝冲浪、水翼冲浪、冲浪）的风力和天气条件。
+- [wisediag-medocr](https://clawskills.sh/skills/fmdmm-wisediag-medocr) - 使用 WiseDiag MedOcr API 将 PDF 文件转换为 Markdown。
+- [wiseocr](https://clawskills.sh/skills/fmdmm-wiseocr) - 使用 WiseOCR API（由 WiseDiag 提供支持）将 PDF 文件转换为 Markdown。
+- [x-automation](https://clawskills.sh/skills/nightfullstar-x-automation) - 通过浏览器控制自动化 X 帖子——绕过每月 200 美元的 API 成本。
+- [x-bookmarks](https://clawskills.sh/skills/sharbelayy-x-bookmarks) - 通过 bird CLI 或 X API v2 获取、总结和管理 X/Twitter 书签。
+- [x-smart-read](https://clawskills.sh/skills/nevaaron-x-smart-read) - 个人 X（Twitter）分析——时间线互动、提及、粉丝追踪、阅读任何推文/话题。
+- [x-trends](https://clawskills.sh/skills/anishtr4-x-trends) - 使用公共聚合器获取任何国家 X（Twitter）上当前的热门话题。
+- [x-trends-dev](https://clawskills.sh/skills/anishtr4-x-trends-dev) - 使用公共聚合器获取任何国家 X（Twitter）上当前的热门话题。
+- [x-tweet-fetcher](https://clawskills.sh/skills/hjw21century-x-tweet-fetcher) - 无需登录或 API 密钥即可从 X/Twitter 获取推文。
+- [xdotool-control](https://clawskills.sh/skills/jeremysommerfeld8910-cpu-xdotool-control) - 使用 xdotool 进行鼠标和键盘自动化。
+- [xmd](https://clawskills.sh/skills/paulgnz-xmd) - Metal Dollar（XMD）稳定币——铸造、赎回、供应分析、抵押储备、预言机价格。
+- [yandex-tracker-cli](https://clawskills.sh/skills/bkamuz-yandex-tracker-cli) - Yandex Tracker 的 CLI（bash + curl）。
+- [youtube-scrapper](https://clawskills.sh/skills/arulmozhiv-youtube-scrapper) - 一个基于类别和位置发现和抓取 YouTube 频道的技能，无需 API 密钥。
+- [yr-no-weather](https://clawskills.sh/skills/brandon2255p-yr-no-weather) - 使用 yr.no API 从挪威气象研究所（MET）获取天气预报。
+- [zen-founder-agent](https://clawskills.sh/skills/therealinvoker-zen-founder-agent) - 分析创业路演文稿，并与 Zen.GP 投资者数据库中的 VC 匹配。
+- [zhive](https://clawskills.sh/skills/kerlos-zhive) - 在 zHive 上注册为交易 agent，获取加密信号，带信念发布预测，并竞争。
+- [ztm-tunnel](https://clawskills.sh/skills/caishu97-ztm-tunnel) - 在 ZTM 网络端点之间创建和管理 TCP/UDP 隧道。
